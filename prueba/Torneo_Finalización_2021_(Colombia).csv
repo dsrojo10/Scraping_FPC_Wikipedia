@@ -1,0 +1,201 @@
+Fecha,Local,Resultado,Visitante,Estadio,Año,Tipo de Torneo
+Fecha 1,Independiente Medellín,1  :  1,Águilas Doradas,Atanasio Girardot,2021,Finalización
+Fecha 1,América de Cali,3  :  1,Junior,Olímpico Pascual Guerrero,2021,Finalización
+Fecha 1,Deportes Quindío,2  :  0,Jaguares,Centenario de Armenia,2021,Finalización
+Fecha 1,Santa Fe,1  :  2,Deportivo Cali,Nemesio Camacho El Campín,2021,Finalización
+Fecha 1,Envigado F. C.,2  :  2,Atlético Nacional,Polideportivo Sur,2021,Finalización
+Fecha 1,Patriotas,0  :  2,Atlético Bucaramanga,La Independencia,2021,Finalización
+Fecha 1,Deportivo Pasto,1  :  3,Millonarios,Departamental Libertad,2021,Finalización
+Fecha 1,Deportes Tolima,1  :  0,Deportivo Pereira,Manuel Murillo Toro,2021,Finalización
+Fecha 1,Once Caldas,1  :  0,Atlético Huila,Palogrande,2021,Finalización
+Fecha 1,Alianza Petrolera,1  :  0,La Equidad,Daniel Villa Zapata,2021,Finalización
+Fecha 2,Millonarios,2  :  1,Deportes Quindío,Nemesio Camacho El Campín,2021,Finalización
+Fecha 2,Atlético Huila,2  :  2,Patriotas,Guillermo Plazas Alcid,2021,Finalización
+Fecha 2,Águilas Doradas,1  :  3,América de Cali,Alberto Grisales,2021,Finalización
+Fecha 2,Jaguares,1  :  1,Once Caldas,Jaraguay,2021,Finalización
+Fecha 2,Atlético Nacional,1  :  0,Deportes Tolima,Atanasio Girardot,2021,Finalización
+Fecha 2,Atlético Bucaramanga,4  :  3,Santa Fe,Alfonso López,2021,Finalización
+Fecha 2,Junior,1  :  0,Envigado F. C.,Metropolitano Roberto Meléndez,2021,Finalización
+Fecha 2,Deportivo Cali,0  :  0,Independiente Medellín,Deportivo Cali,2021,Finalización
+Fecha 2,Deportivo Pereira,0  :  2,Alianza Petrolera,Hernán Ramírez Villegas,2021,Finalización
+Fecha 2,La Equidad,0  :  0,Deportivo Pasto,Metropolitano de Techo,2021,Finalización
+Fecha 3,Deportes Quindío,2  :  1,Águilas Doradas,Centenario de Armenia,2021,Finalización
+Fecha 3,Deportes Tolima,1  :  1,Alianza Petrolera,Manuel Murillo Toro,2021,Finalización
+Fecha 3,Deportivo Cali,1  :  2,Atlético Bucaramanga,Deportivo Cali,2021,Finalización
+Fecha 3,Independiente Medellín,0  :  0,Junior,Atanasio Girardot,2021,Finalización
+Fecha 3,Patriotas,1  :  0,La Equidad,La Independencia,2021,Finalización
+Fecha 3,Envigado F. C.,1  :  0,América de Cali,Polideportivo Sur,2021,Finalización
+Fecha 3,Once Caldas,0  :  2,Millonarios,Palogrande,2021,Finalización
+Fecha 3,Jaguares,2  :  0,Atlético Huila,Jaraguay,2021,Finalización
+Fecha 3,Deportivo Pasto,1  :  2,Deportivo Pereira,Departamental Libertad,2021,Finalización
+Fecha 3,Santa Fe,0  :  1,Atlético Nacional,Nemesio Camacho El Campín,2021,Finalización
+Fecha 4,Atlético Huila,0  :  0,Deportes Quindío,Guillermo Plazas Alcid,2021,Finalización
+Fecha 4,América de Cali,1  :  0,Once Caldas,Olímpico Pascual Guerrero,2021,Finalización
+Fecha 4,Atlético Nacional,2  :  0,Deportivo Cali,Atanasio Girardot,2021,Finalización
+Fecha 4,Millonarios,0  :  1,Santa Fe,Nemesio Camacho El Campín,2021,Finalización
+Fecha 4,La Equidad,0  :  0,Independiente Medellín,Metropolitano de Techo,2021,Finalización
+Fecha 4,Junior,0  :  0,Deportes Tolima,Metropolitano Roberto Meléndez,2021,Finalización
+Fecha 4,Alianza Petrolera,2  :  0,Deportivo Pasto,Daniel Villa Zapata,2021,Finalización
+Fecha 4,Atlético Bucaramanga,0  :  1,Jaguares,Alfonso López,2021,Finalización
+Fecha 4,Águilas Doradas,1  :  0,Patriotas,Alberto Grisales,2021,Finalización
+Fecha 4,Deportivo Pereira,0  :  1,Envigado F. C.,Hernán Ramírez Villegas,2021,Finalización
+Fecha 5,Deportes Tolima,1  :  0,Deportivo Pasto,Manuel Murillo Toro,2021,Finalización
+Fecha 5,Envigado F. C.,2  :  1,Alianza Petrolera,Polideportivo Sur,2021,Finalización
+Fecha 5,Independiente Medellín,2  :  0,América de Cali,Atanasio Girardot,2021,Finalización
+Fecha 5,Deportivo Cali,2  :  2,Millonarios,Deportivo Cali,2021,Finalización
+Fecha 5,Jaguares,1  :  1,Junior,Jaraguay,2021,Finalización
+Fecha 5,Patriotas,0  :  3,Atlético Nacional,La Independencia,2021,Finalización
+Fecha 5,Once Caldas,0  :  1,Deportivo Pereira,Palogrande,2021,Finalización
+Fecha 5,Atlético Huila,0  :  2,Águilas Doradas,Guillermo Plazas Alcid,2021,Finalización
+Fecha 5,Santa Fe,0  :  2,La Equidad,Nemesio Camacho El Campín,2021,Finalización
+Fecha 5,Deportes Quindío,2  :  3,Atlético Bucaramanga,Centenario de Armenia,2021,Finalización
+Fecha 6,América de Cali,0  :  0,Patriotas,Olímpico Pascual Guerrero,2021,Finalización
+Fecha 6,Deportivo Pereira,1  :  1,Santa Fe,Hernán Ramírez Villegas,2021,Finalización
+Fecha 6,Atlético Nacional,1  :  0,Deportes Quindío,Polideportivo Sur,2021,Finalización
+Fecha 6,Junior,4  :  2,Once Caldas,Metropolitano Roberto Meléndez,2021,Finalización
+Fecha 6,Millonarios,2  :  0,Independiente Medellín,Nemesio Camacho El Campín,2021,Finalización
+Fecha 6,La Equidad,1  :  1,Deportes Tolima,Metropolitano de Techo,2021,Finalización
+Fecha 6,Águilas Doradas,1  :  2,Jaguares,Alberto Grisales,2021,Finalización
+Fecha 6,Alianza Petrolera,2  :  3,Deportivo Cali,Daniel Villa Zapata,2021,Finalización
+Fecha 6,Deportivo Pasto,0  :  2,Envigado F. C.,Departamental Libertad,2021,Finalización
+Fecha 6,Atlético Bucaramanga,1  :  1,Atlético Huila,Alfonso López,2021,Finalización
+Fecha 7,Deportes Quindío,2  :  1,Once Caldas,Centenario de Armenia,2021,Finalización
+Fecha 7,Envigado F. C.,3  :  2,La Equidad,Polideportivo Sur,2021,Finalización
+Fecha 7,Deportivo Pereira,1  :  0,Millonarios,Hernán Ramírez Villegas,2021,Finalización
+Fecha 7,Atlético Huila,3  :  1,Independiente Medellín,Guillermo Plazas Alcid,2021,Finalización
+Fecha 7,Patriotas,0  :  0,Deportivo Pasto,La Independencia,2021,Finalización
+Fecha 7,Deportivo Cali,1  :  1,Junior,Deportivo Cali,2021,Finalización
+Fecha 7,Santa Fe,1  :  1,América de Cali,Nemesio Camacho El Campín,2021,Finalización
+Fecha 7,Jaguares,0  :  3,Deportes Tolima,Jaraguay,2021,Finalización
+Fecha 7,Atlético Nacional,1  :  0,Águilas Doradas,Atanasio Girardot,2021,Finalización
+Fecha 7,Atlético Bucaramanga,1  :  2,Alianza Petrolera,Alfonso López,2021,Finalización
+Fecha 8,América de Cali,0  :  1,Deportes Quindío,Olímpico Pascual Guerrero,2021,Finalización
+Fecha 8,La Equidad,1  :  0,Jaguares,Metropolitano de Techo,2021,Finalización
+Fecha 8,Once Caldas,1  :  1,Atlético Bucaramanga,Palogrande,2021,Finalización
+Fecha 8,Deportivo Pasto,2  :  0,Deportivo Cali,Departamental Libertad,2021,Finalización
+Fecha 8,Independiente Medellín,0  :  0,Santa Fe,Atanasio Girardot,2021,Finalización
+Fecha 8,Alianza Petrolera,1  :  3,Atlético Nacional,Daniel Villa Zapata,2021,Finalización
+Fecha 8,Águilas Doradas,0  :  1,Deportivo Pereira,Alberto Grisales,2021,Finalización
+Fecha 8,Deportes Tolima,2  :  0,Envigado F. C.,Manuel Murillo Toro,2021,Finalización
+Fecha 8,Millonarios,1  :  0,Patriotas,Nemesio Camacho El Campín,2021,Finalización
+Fecha 8,Junior,3  :  0,Atlético Huila,Metropolitano Roberto Meléndez,2021,Finalización
+Fecha 9,Jaguares,0  :  1,Independiente Medellín,Jaraguay,2021,Finalización
+Fecha 9,Patriotas,0  :  0,Envigado F. C.,La Independencia,2021,Finalización
+Fecha 9,Once Caldas,2  :  3,Águilas Doradas,Palogrande,2021,Finalización
+Fecha 9,Deportivo Cali,0  :  1,América de Cali,Deportivo Cali,2021,Finalización
+Fecha 9,Santa Fe,1  :  1,Alianza Petrolera,Nemesio Camacho El Campín,2021,Finalización
+Fecha 9,Atlético Bucaramanga,3  :  4,Millonarios,Alfonso López,2021,Finalización
+Fecha 9,Deportivo Pereira,1  :  1,Junior,Hernán Ramírez Villegas,2021,Finalización
+Fecha 9,Atlético Nacional,2  :  0,La Equidad,Atanasio Girardot,2021,Finalización
+Fecha 9,Deportes Quindío,1  :  2,Deportivo Pasto,Centenario de Armenia,2021,Finalización
+Fecha 9,Atlético Huila,1  :  2,Deportes Tolima,Guillermo Plazas Alcid,2021,Finalización
+Fecha 10,Independiente Medellín,3  :  1,Once Caldas,Atanasio Girardot,2021,Finalización
+Fecha 10,Envigado F. C.,1  :  1,Deportes Quindío,Polideportivo Sur,2021,Finalización
+Fecha 10,América de Cali,2  :  3,Jaguares,Olímpico Pascual Guerrero,2021,Finalización
+Fecha 10,Junior,1  :  3,Atlético Nacional,Metropolitano Roberto Meléndez,2021,Finalización
+Fecha 10,Millonarios,3  :  1,Atlético Huila,Nemesio Camacho El Campín,2021,Finalización
+Fecha 10,Deportes Tolima,1  :  1,Deportivo Cali,Manuel Murillo Toro,2021,Finalización
+Fecha 10,Deportivo Pasto,0  :  1,Santa Fe,Departamental Libertad,2021,Finalización
+Fecha 10,Águilas Doradas,3  :  0,Atlético Bucaramanga,Alberto Grisales,2021,Finalización
+Fecha 10,La Equidad,1  :  1,Deportivo Pereira,Metropolitano de Techo,2021,Finalización
+Fecha 10,Alianza Petrolera,3  :  0,Patriotas,Daniel Villa Zapata,2021,Finalización
+Fecha 11,Deportivo Cali,2  :  1,Deportivo Pereira,Deportivo Cali,2021,Finalización
+Fecha 11,Once Caldas,1  :  1,Alianza Petrolera,Palogrande,2021,Finalización
+Fecha 11,Santa Fe,3  :  1,Envigado F. C.,Nemesio Camacho El Campín,2021,Finalización
+Fecha 11,Águilas Doradas,1  :  2,Junior,Alberto Grisales,2021,Finalización
+Fecha 11,Atlético Nacional,1  :  1,Deportivo Pasto,Atanasio Girardot,2021,Finalización
+Fecha 11,Atlético Bucaramanga,2  :  1,América de Cali,Alfonso López,2021,Finalización
+Fecha 11,Patriotas,0  :  0,Deportes Tolima,La Independencia,2021,Finalización
+Fecha 11,Jaguares,4  :  3,Millonarios,Jaraguay,2021,Finalización
+Fecha 11,Deportes Quindío,1  :  0,Independiente Medellín,Centenario de Armenia,2021,Finalización
+Fecha 11,Atlético Huila,1  :  1,La Equidad,Guillermo Plazas Alcid,2021,Finalización
+Fecha 12,Deportivo Pasto,0  :  1,Once Caldas,Departamental Libertad,2021,Finalización
+Fecha 12,Deportes Tolima,0  :  0,Santa Fe,Manuel Murillo Toro,2021,Finalización
+Fecha 12,Junior,1  :  0,Patriotas,Metropolitano Roberto Meléndez,2021,Finalización
+Fecha 12,La Equidad,1  :  0,Deportes Quindío,Metropolitano de Techo,2021,Finalización
+Fecha 12,Envigado F. C.,1  :  2,Deportivo Cali,Polideportivo Sur,2021,Finalización
+Fecha 12,Deportivo Pereira,3  :  2,Atlético Nacional,Hernán Ramírez Villegas,2021,Finalización
+Fecha 12,América de Cali,1  :  0,Atlético Huila,Olímpico Pascual Guerrero,2021,Finalización
+Fecha 12,Millonarios,1  :  0,Águilas Doradas,Nemesio Camacho El Campín,2021,Finalización
+Fecha 12,Independiente Medellín,1  :  0,Atlético Bucaramanga,Atanasio Girardot,2021,Finalización
+Fecha 12,Alianza Petrolera,1  :  1,Jaguares,Daniel Villa Zapata,2021,Finalización
+Fecha 13,Jaguares,4  :  1,Deportivo Pasto,Jaraguay,2021,Finalización
+Fecha 13,Águilas Doradas,1  :  0,Alianza Petrolera,Alberto Grisales,2021,Finalización
+Fecha 13,Independiente Medellín,0  :  0,Envigado F. C.,Atanasio Girardot,2021,Finalización
+Fecha 13,Once Caldas,0  :  2,Deportes Tolima,Palogrande,2021,Finalización
+Fecha 13,Deportivo Cali,2  :  2,La Equidad,Deportivo Cali,2021,Finalización
+Fecha 13,Millonarios,0  :  0,América de Cali,Nemesio Camacho El Campín,2021,Finalización
+Fecha 13,Atlético Huila,1  :  4,Atlético Nacional,Guillermo Plazas Alcid,2021,Finalización
+Fecha 13,Patriotas,0  :  1,Santa Fe,La Independencia,2021,Finalización
+Fecha 13,Atlético Bucaramanga,1  :  1,Junior,Alfonso López,2021,Finalización
+Fecha 13,Deportes Quindío,2  :  3,Deportivo Pereira,Centenario de Armenia,2021,Finalización
+Fecha 14,Deportes Tolima,1  :  0,Atlético Huila,Manuel Murillo Toro,2021,Finalización
+Fecha 14,La Equidad,1  :  3,Patriotas,Metropolitano de Techo,2021,Finalización
+Fecha 14,América de Cali,1  :  1,Deportivo Cali,Olímpico Pascual Guerrero,2021,Finalización
+Fecha 14,Deportivo Pereira,3  :  0,Once Caldas,Hernán Ramírez Villegas,2021,Finalización
+Fecha 14,Atlético Nacional,1  :  1,Independiente Medellín,Atanasio Girardot,2021,Finalización
+Fecha 14,Deportivo Pasto,1  :  0,Deportes Quindío,Departamental Libertad,2021,Finalización
+Fecha 14,Alianza Petrolera,2  :  0,Atlético Bucaramanga,Daniel Villa Zapata,2021,Finalización
+Fecha 14,Santa Fe,0  :  2,Millonarios,Nemesio Camacho El Campín,2021,Finalización
+Fecha 14,Junior,2  :  1,Jaguares,Metropolitano Roberto Meléndez,2021,Finalización
+Fecha 14,Envigado F. C.,4  :  1,Águilas Doradas,Polideportivo Sur,2021,Finalización
+Fecha 15,Once Caldas,2  :  1,La Equidad,Palogrande,2021,Finalización
+Fecha 15,Jaguares,1  :  1,Envigado F. C.,Jaraguay,2021,Finalización
+Fecha 15,Deportes Quindío,1  :  0,Alianza Petrolera,Centenario de Armenia,2021,Finalización
+Fecha 15,Patriotas,1  :  2,Deportivo Pereira,La Independencia,2021,Finalización
+Fecha 15,Atlético Bucaramanga,2  :  1,Deportivo Pasto,Alfonso López,2021,Finalización
+Fecha 15,Independiente Medellín,2  :  2,Deportes Tolima,Atanasio Girardot,2021,Finalización
+Fecha 15,Millonarios,4  :  1,Junior,Nemesio Camacho El Campín,2021,Finalización
+Fecha 15,Águilas Doradas,1  :  2,Deportivo Cali,Alberto Grisales,2021,Finalización
+Fecha 15,América de Cali,0  :  2,Atlético Nacional,Olímpico Pascual Guerrero,2021,Finalización
+Fecha 15,Atlético Huila,1  :  2,Santa Fe,Guillermo Plazas Alcid,2021,Finalización
+Fecha 16,Envigado F. C.,2  :  1,Millonarios,Polideportivo Sur,2021,Finalización
+Fecha 16,Alianza Petrolera,3  :  0,Independiente Medellín,Daniel Villa Zapata,2021,Finalización
+Fecha 16,Deportivo Pereira,1  :  1,Atlético Bucaramanga,Hernán Ramírez Villegas,2021,Finalización
+Fecha 16,La Equidad,2  :  2,Águilas Doradas,Metropolitano de Techo,2021,Finalización
+Fecha 16,Deportivo Cali,2  :  0,Patriotas,Deportivo Cali,2021,Finalización
+Fecha 16,Atlético Nacional,2  :  0,Once Caldas,Atanasio Girardot,2021,Finalización
+Fecha 16,Deportivo Pasto,1  :  0,Atlético Huila,Departamental Libertad,2021,Finalización
+Fecha 16,Santa Fe,3  :  1,Jaguares,Nemesio Camacho El Campín,2021,Finalización
+Fecha 16,Junior,0  :  0,Deportes Quindío,Metropolitano Roberto Meléndez,2021,Finalización
+Fecha 16,Deportes Tolima,0  :  1,América de Cali,Manuel Murillo Toro,2021,Finalización
+Fecha 17,Atlético Bucaramanga,2  :  1,Envigado F. C.,Alfonso López,2021,Finalización
+Fecha 17,Millonarios,0  :  1,La Equidad,Nemesio Camacho El Campín,2021,Finalización
+Fecha 17,Once Caldas,1  :  1,Patriotas,Palogrande,2021,Finalización
+Fecha 17,Jaguares,0  :  0,Atlético Nacional,Jaraguay,2021,Finalización
+Fecha 17,Independiente Medellín,0  :  0,Deportivo Pereira,Atanasio Girardot,2021,Finalización
+Fecha 17,América de Cali,1  :  1,Alianza Petrolera,Olímpico Pascual Guerrero,2021,Finalización
+Fecha 17,Junior,2  :  1,Deportivo Pasto,Metropolitano Roberto Meléndez,2021,Finalización
+Fecha 17,Atlético Huila,0  :  5,Deportivo Cali,Guillermo Plazas Alcid,2021,Finalización
+Fecha 17,Deportes Quindío,1  :  1,Santa Fe,Centenario de Armenia,2021,Finalización
+Fecha 17,Águilas Doradas,1  :  1,Deportes Tolima,Alberto Grisales,2021,Finalización
+Fecha 18,Deportivo Pereira,0  :  0,Jaguares,Hernán Ramírez Villegas,2021,Finalización
+Fecha 18,Envigado F. C.,1  :  2,Once Caldas,Polideportivo Sur,2021,Finalización
+Fecha 18,Alianza Petrolera,1  :  0,Atlético Huila,Daniel Villa Zapata,2021,Finalización
+Fecha 18,La Equidad,2  :  1,América de Cali,Metropolitano de Techo,2021,Finalización
+Fecha 18,Atlético Nacional,0  :  0,Atlético Bucaramanga,Atanasio Girardot,2021,Finalización
+Fecha 18,Patriotas,0  :  1,Independiente Medellín,La Independencia,2021,Finalización
+Fecha 18,Santa Fe,1  :  1,Junior,Nemesio Camacho El Campín,2021,Finalización
+Fecha 18,Deportes Tolima,3  :  2,Millonarios,Manuel Murillo Toro,2021,Finalización
+Fecha 18,Deportivo Cali,1  :  0,Deportes Quindío,Deportivo Cali,2021,Finalización
+Fecha 18,Deportivo Pasto,0  :  2,Águilas Doradas,Departamental Libertad,2021,Finalización
+Fecha 19,Jaguares,1  :  0,Deportivo Cali,Jaraguay,2021,Finalización
+Fecha 19,América de Cali,3  :  0,Deportivo Pasto,Olímpico Pascual Guerrero,2021,Finalización
+Fecha 19,Águilas Doradas,1  :  1,Envigado F. C.,Alberto Grisales,2021,Finalización
+Fecha 19,Deportes Quindío,0  :  3,Patriotas,Centenario de Armenia,2021,Finalización
+Fecha 19,Independiente Medellín,0  :  0,Atlético Nacional,Atanasio Girardot,2021,Finalización
+Fecha 19,Millonarios,1  :  1,Alianza Petrolera,Nemesio Camacho El Campín,2021,Finalización
+Fecha 19,Atlético Huila,0  :  2,Deportivo Pereira,Guillermo Plazas Alcid,2021,Finalización
+Fecha 19,Atlético Bucaramanga,1  :  1,Deportes Tolima,Alfonso López,2021,Finalización
+Fecha 19,Once Caldas,2  :  1,Santa Fe,Palogrande,2021,Finalización
+Fecha 19,Junior,1  :  0,La Equidad,Metropolitano Roberto Meléndez,2021,Finalización
+Fecha 20,Santa Fe,0  :  1,Águilas Doradas,Nemesio Camacho El Campín,2021,Finalización
+Fecha 20,Alianza Petrolera,1  :  1,Junior,Daniel Villa Zapata,2021,Finalización
+Fecha 20,La Equidad,2  :  0,Atlético Bucaramanga,Metropolitano de Techo,2021,Finalización
+Fecha 20,Deportes Tolima,3  :  1,Deportes Quindío,Manuel Murillo Toro,2021,Finalización
+Fecha 20,Deportivo Cali,0  :  0,Once Caldas,Deportivo Cali,2021,Finalización
+Fecha 20,Envigado F. C.,0  :  1,Atlético Huila,Polideportivo Sur,2021,Finalización
+Fecha 20,Patriotas,3  :  0,Jaguares,La Independencia,2021,Finalización
+Fecha 20,Deportivo Pasto,1  :  1,Independiente Medellín,Departamental Libertad,2021,Finalización
+Fecha 20,Deportivo Pereira,1  :  5,América de Cali,Hernán Ramírez Villegas,2021,Finalización
+Fecha 20,Atlético Nacional,1  :  3,Millonarios,Atanasio Girardot,2021,Finalización

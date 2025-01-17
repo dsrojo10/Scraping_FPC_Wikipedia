@@ -1,0 +1,163 @@
+Fecha,Local,Resultado,Visitante,Estadio,Año,Tipo de Torneo
+Fecha 1,Tolima,2  :  1,Patriotas,Manuel Murillo Toro,2012,Finalización
+Fecha 1,Cúcuta,2  :  1,Envigado,Santiago de las Atalayas,2012,Finalización
+Fecha 1,Real Cartagena,1  :  2,Once Caldas,Jaime Morón León,2012,Finalización
+Fecha 1,Cali,3  :  1,Nacional,Pascual Guerrero,2012,Finalización
+Fecha 1,Medellín,1  :  0,Pasto,Atanasio Girardot,2012,Finalización
+Fecha 1,Boyacá Chicó,2  :  0,Huila,La Independencia,2012,Finalización
+Fecha 1,Itagüí,3  :  0,La Equidad,Ciudad de Itagüí,2012,Finalización
+Fecha 1,Quindío,0  :  0,Junior,Centenario,2012,Finalización
+Fecha 1,Millonarios,2  :  0,Santa Fe,El Campín,2012,Finalización
+Fecha 2,Pasto,3  :  0,Quindío,Libertad,2012,Finalización
+Fecha 2,Patriotas,1  :  1,Cúcuta,La Independencia,2012,Finalización
+Fecha 2,Junior,1  :  0,Real Cartagena,Metropolitano,2012,Finalización
+Fecha 2,Once Caldas,1  :  0,Cali,Palogrande,2012,Finalización
+Fecha 2,Envigado,1  :  0,Medellín,Polideportivo Sur,2012,Finalización
+Fecha 2,Huila,0  :  4,Millonarios,Guillermo Plazas Alcid,2012,Finalización
+Fecha 2,Santa Fe,2  :  1,Tolima,El Campín,2012,Finalización
+Fecha 2,La Equidad,1  :  1,Boyacá Chicó,Metropolitano de Techo,2012,Finalización
+Fecha 2,Nacional,1  :  1,Itagüí,Atanasio Girardot,2012,Finalización
+Fecha 3,Quindío,1  :  0,Envigado,Centenario,2012,Finalización
+Fecha 3,Itagüí,1  :  0,Once Caldas,Ciudad de Itagüí,2012,Finalización
+Fecha 3,Tolima,1  :  1,Huila,Manuel Murillo Toro,2012,Finalización
+Fecha 3,Millonarios,2  :  0,La Equidad,El Campín,2012,Finalización
+Fecha 3,Junior,2  :  0,Pasto,Metropolitano,2012,Finalización
+Fecha 3,Boyacá Chicó,1  :  1,Nacional,La Independencia,2012,Finalización
+Fecha 3,Cali,2  :  0,Real Cartagena,Pascual Guerrero,2012,Finalización
+Fecha 3,Cúcuta,4  :  0,Santa Fe,Santiago de las Atalayas,2012,Finalización
+Fecha 3,Medellín,2  :  0,Patriotas,Atanasio Girardot,2012,Finalización
+Fecha 4,Huila,0  :  0,Cúcuta,Guillermo Plazas Alcid,2012,Finalización
+Fecha 4,Patriotas,2  :  2,Quindío,La Independencia,2012,Finalización
+Fecha 4,Santa Fe,1  :  1,Medellín,El Campín,2012,Finalización
+Fecha 4,Envigado,1  :  2,Pasto,Polideportivo Sur,2012,Finalización
+Fecha 4,Nacional,0  :  0,Millonarios,Atanasio Girardot,2012,Finalización
+Fecha 4,Real Cartagena,3  :  1,Itagüí,Jaime Morón León,2012,Finalización
+Fecha 4,Cali,1  :  1,Junior,Pascual Guerrero,2012,Finalización
+Fecha 4,La Equidad,1  :  0,Tolima,Metropolitano de Techo,2012,Finalización
+Fecha 4,Once Caldas,5  :  2,Boyacá Chicó,Palogrande,2012,Finalización
+Fecha 5,Medellín,0  :  0,Huila,Atanasio Girardot,2012,Finalización
+Fecha 5,Itagüí,2  :  0,Cali,Ciudad de Itagüí,2012,Finalización
+Fecha 5,Deportes Tolima,1  :  3,Nacional,Manuel Murillo Toro,2012,Finalización
+Fecha 5,Pasto,1  :  1,Patriotas,Departamental Libertad,2012,Finalización
+Fecha 5,Quindío,1  :  0,Santa Fe,Centenario,2012,Finalización
+Fecha 5,Junior,2  :  0,Envigado,Metropolitano,2012,Finalización
+Fecha 5,Cúcuta,1  :  3,La Equidad,Santiago de las Atalayas,2012,Finalización
+Fecha 5,Millonarios,2  :  1,Once Caldas,El Campín,2012,Finalización
+Fecha 5,Boyacá Chicó,3  :  0,Real Cartagena,La Independencia,2012,Finalización
+Fecha 6,Huila,0  :  1,Quindío,Guillermo Plazas Alcid,2012,Finalización
+Fecha 6,Santa Fe,2  :  0,Pasto,El Campín,2012,Finalización
+Fecha 6,Itagüí,1  :  1,Junior,Ciudad de Itagüí,2012,Finalización
+Fecha 6,La Equidad,1  :  3,Medellín,Metropolitano de Techo,2012,Finalización
+Fecha 6,Cali,2  :  3,Boyacá Chicó,Pascual Guerrero,2012,Finalización
+Fecha 6,Real Cartagena,0  :  2,Millonarios,Jaime Morón León,2012,Finalización
+Fecha 6,Nacional,1  :  1,Cúcuta,Atanasio Girardot,2012,Finalización
+Fecha 6,Once Caldas,0  :  1,Tolima,Palogrande,2012,Finalización
+Fecha 6,Patriotas,1  :  2,Envigado,La Independencia,2012,Finalización
+Fecha 7,Pasto,3  :  1,Huila,Libertad,2012,Finalización
+Fecha 7,Cúcuta,4  :  1,Once Caldas,Santiago de las Atalayas,2012,Finalización
+Fecha 7,Envigado,1  :  1,Santa Fe,Polideportivo Sur,2012,Finalización
+Fecha 7,Medellín,0  :  3,Nacional,Atanasio Girardot,2012,Finalización
+Fecha 7,Junior,4  :  3,Patriotas,Metropolitano,2012,Finalización
+Fecha 7,Millonarios,0  :  0,Cali,El Campín,2012,Finalización
+Fecha 7,Tolima,2  :  1,Real Cartagena,Manuel Murillo Toro,2012,Finalización
+Fecha 7,Quindío,1  :  1,La Equidad,Centenario,2012,Finalización
+Fecha 7,Boyacá Chicó,1  :  1,Itagüí,La Independencia,2012,Finalización
+Fecha 8,Cali,1  :  3,Tolima,Pascual Guerrero,2012,Finalización
+Fecha 8,Itagüí,1  :  0,Millonarios,Ciudad de Itagüí,2012,Finalización
+Fecha 8,Once Caldas,0  :  1,Medellín,Palogrande,2012,Finalización
+Fecha 8,La Equidad,2  :  0,Pasto,Metropolitano de Techo,2012,Finalización
+Fecha 8,Huila,1  :  0,Envigado,Guillermo Plazas Alcid,2012,Finalización
+Fecha 8,Nacional,1  :  1,Quindío,Atanasio Girardot,2012,Finalización
+Fecha 8,Real Cartagena,0  :  1,Cúcuta,Jaime Morón León,2012,Finalización
+Fecha 8,Santa Fe,2  :  1,Patriotas,El Campín,2012,Finalización
+Fecha 8,Boyacá Chicó,1  :  1,Junior,La Independencia,2012,Finalización
+Fecha 9,Once Caldas,1  :  3,Quindío,Palogrande,2012,Finalización
+Fecha 9,Patriotas,1  :  0,Boyacá Chicó,La independencia,2012,Finalización
+Fecha 9,Santa Fe,1  :  2,Millonarios,El Campín,2012,Finalización
+Fecha 9,Huila,0  :  0,Tolima,Guillermo Plazas Alcid,2012,Finalización
+Fecha 9,Pasto,3  :  0,Cali,Departamental La Libertad,2012,Finalización
+Fecha 9,Nacional,2  :  2,Medellín,Atanasio Girardot,2012,Finalización
+Fecha 9,Real Cartagena,1  :  3,Junior,Jaime Morón León,2012,Finalización
+Fecha 9,La Equidad,3  :  1,Cúcuta,Metropolitano de Techo,2012,Finalización
+Fecha 9,Envigado,0  :  0,Itagüí,Polideportivo Sur,2012,Finalización
+Fecha 10,Cúcuta,1  :  2,Cali,Santiago de las Atalayas,2012,Finalización
+Fecha 10,Envigado,1  :  1,La Equidad,Polideportivo Sur,2012,Finalización
+Fecha 10,Medellín,5  :  0,Real Cartagena,Atanasio Girardot,2012,Finalización
+Fecha 10,Patriotas,1  :  0,Huila,La Independencia,2012,Finalización
+Fecha 10,Junior,1  :  1,Santa Fe,Metropolitano,2012,Finalización
+Fecha 10,Quindío,0  :  1,Once Caldas,Centenario,2012,Finalización
+Fecha 10,Tolima,1  :  2,Itagüí,Manuel Murillo Toro,2012,Finalización
+Fecha 10,Millonarios,0  :  1,Boyacá Chicó,El Campín,2012,Finalización
+Fecha 10,Pasto,0  :  2,Nacional,Libertad,2012,Finalización
+Fecha 11,Real Cartagena,2  :  1,Quindío,Jaime Morón León,2012,Finalización
+Fecha 11,Boyacá Chicó,1  :  1,Tolima,La Independencia,2012,Finalización
+Fecha 11,Millonarios,2  :  0,Junior,El Campín,2012,Finalización
+Fecha 11,Cali,2  :  0,Medellín,Pascual Guerrero,2012,Finalización
+Fecha 11,La Equidad,2  :  1,Patriotas,Metropolitano de techo,2012,Finalización
+Fecha 11,Itagüí,0  :  0,Cúcuta,Ciudad de Itagüí,2012,Finalización
+Fecha 11,Nacional,1  :  0,Envigado,Atanasio Girardot,2012,Finalización
+Fecha 11,Huila,2  :  0,Santa Fe,Guillermo Plazas Alcid,2012,Finalización
+Fecha 11,Once Caldas,2  :  1,Pasto,Palogrande,2012,Finalización
+Fecha 12,Cúcuta,2  :  0,Boyacá Chicó,Santiago de las Atalayas,2012,Finalización
+Fecha 12,Envigado,2  :  1,Once Caldas,Polideportivo Sur,2012,Finalización
+Fecha 12,Quindío,2  :  1,Cali,Centenario,2012,Finalización
+Fecha 12,Medellín,0  :  1,Itagüí,Atanasio Girardot,2012,Finalización
+Fecha 12,Junior,4  :  0,Huila,Metropolitano,2012,Finalización
+Fecha 12,Pasto,0  :  0,Real Cartagena,Libertad,2012,Finalización
+Fecha 12,Patriotas,0  :  3,Nacional,La Independencia,2012,Finalización
+Fecha 12,Santa Fe,1  :  2,La Equidad,El Campín,2012,Finalización
+Fecha 12,Tolima,0  :  0,Millonarios,Manuel Murillo Toro,2012,Finalización
+Fecha 13,Tolima,2  :  2,Junior,Manuel Murillo Toro,2012,Finalización
+Fecha 13,Millonarios,1  :  0,Cúcuta,El Campín,2012,Finalización
+Fecha 13,Real Cartagena,2  :  3,Envigado,Jaime Morón León,2012,Finalización
+Fecha 13,Cali,0  :  1,Pasto,Pascual Guerrero,2012,Finalización
+Fecha 13,Itagüí,4  :  0,Quindío,Ciudad de Itagüí,2012,Finalización
+Fecha 13,Nacional,2  :  2,Santa Fe,Atanasio Girardot,2012,Finalización
+Fecha 13,Boyacá Chicó,1  :  0,Medellín,La Independencia,2012,Finalización
+Fecha 13,Once Caldas,1  :  1,Patriotas,Palogrande,2012,Finalización
+Fecha 13,La Equidad,5  :  1,Huila,Metropolitano de Techo,2012,Finalización
+Fecha 14,Cúcuta,0  :  5,Tolima,Santiago de las Atalayas,2012,Finalización
+Fecha 14,Huila,0  :  0,Nacional,Guillermo Plazas Alcid,2012,Finalización
+Fecha 14,Pasto,1  :  1,Itagüí,Libertad,2012,Finalización
+Fecha 14,Quindío,4  :  1,Boyacá Chicó,Centenario,2012,Finalización
+Fecha 14,Medellín,1  :  1,Millonarios,Atanacio Girardot,2012,Finalización
+Fecha 14,Santa Fe,2  :  0,Once Caldas,El Campín,2012,Finalización
+Fecha 14,Patriotas,1  :  1,Real Cartagena,La Independencia,2012,Finalización
+Fecha 14,Envigado,0  :  0,Cali,Polideportivo Sur,2012,Finalización
+Fecha 14,Junior,0  :  0,La Equidad,Metropolitano,2012,Finalización
+Fecha 15,Real Cartagena,2  :  1,Santa Fe,Jaime Morón León,2012,Finalización
+Fecha 15,Itagüí,1  :  1,Envigado,Ciudad de Itagüí,2012,Finalización
+Fecha 15,Millonarios,2  :  1,Quindío,El Campín,2012,Finalización
+Fecha 15,Cali,3  :  0,Patriotas,Pascual Guerrero,2012,Finalización
+Fecha 15,Boyacá Chicó,1  :  1,Pasto,La Independencia,2012,Finalización
+Fecha 15,Cúcuta,1  :  1,Junior,General Santander,2012,Finalización
+Fecha 15,Tolima,2  :  1,Medellín,Manuel Murillo Toro,2012,Finalización
+Fecha 15,Nacional,0  :  0,La Equidad,Atanasio Girardot,2012,Finalización
+Fecha 15,Once Caldas,3  :  1,Huila,Palogrande,2012,Finalización
+Fecha 16,La Equidad,1  :  0,Once Caldas,Metropolitano de Techo,2012,Finalización
+Fecha 16,Envigado,0  :  0,Boyacá Chicó,Polideportivo Sur,2012,Finalización
+Fecha 16,Santa Fe,1  :  0,Cali,El Campín,2012,Finalización
+Fecha 16,Patriotas,1  :  0,Itagüí,La Independencia,2012,Finalización
+Fecha 16,Junior,1  :  0,Nacional,Metropolitano Roberto Melendez,2012,Finalización
+Fecha 16,Medellín,1  :  1,Cúcuta,Atanasio Girardot,2012,Finalización
+Fecha 16,Huila,1  :  1,Real Cartagena,Guillermo Plazas Alcid,2012,Finalización
+Fecha 16,Pasto,3  :  1,Millonarios,Libertad,2012,Finalización
+Fecha 16,Quindío,1  :  2,Tolima,Centenario,2012,Finalización
+Fecha 17,Itagüí,0  :  0,Santa Fe,Ciudad de Itagüí,2012,Finalización
+Fecha 17,Millonarios,2  :  0,Envigado,El Campín,2012,Finalización
+Fecha 17,Once Caldas,0  :  2,Nacional,Palogrande,2012,Finalización
+Fecha 17,Tolima,2  :  1,Pasto,Manuel Murillo Toro,2012,Finalización
+Fecha 17,Cúcuta,1  :  0,Quindío,General Santander,2012,Finalización
+Fecha 17,Boyacá Chicó,0  :  1,Patriotas,La Independencia,2012,Finalización
+Fecha 17,Real Cartagena,0  :  2,La Equidad,Jaime Morón León,2012,Finalización
+Fecha 17,Medellín,2  :  1,Junior,Atanasio Girardot,2012,Finalización
+Fecha 17,Cali,3  :  2,Huila,Pascual Guerrero,2012,Finalización
+Fecha 18,Patriotas,0  :  2,Millonarios,La Independencia,2012,Finalización
+Fecha 18,Junior,2  :  0,Once Caldas,Metropolitano,2012,Finalización
+Fecha 18,La Equidad,1  :  1,Cali,Metropolitano de Techo,2012,Finalización
+Fecha 18,Huila,2  :  3,Itagüí,Guillermo Plazas Alcid,2012,Finalización
+Fecha 18,Envigado,2  :  0,Tolima,Polideportivo Sur,2012,Finalización
+Fecha 18,Nacional,2  :  1,Real Cartagena,Atanasio Girardot,2012,Finalización
+Fecha 18,Santa Fe,1  :  0,Boyacá Chicó,Metropolitano de Techo,2012,Finalización
+Fecha 18,Pasto,2  :  1,Cúcuta,Libertad,2012,Finalización
+Fecha 18,Quindío,1  :  3,Medellín,Centenario,2012,Finalización

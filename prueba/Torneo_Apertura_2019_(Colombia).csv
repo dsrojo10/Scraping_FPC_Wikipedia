@@ -1,0 +1,201 @@
+Fecha,Local,Resultado,Visitante,Estadio,Año,Tipo de Torneo
+Fecha 1,Patriotas,2  :  1,Independiente Medellín,La Independencia,2019,Apertura
+Fecha 1,La Equidad,2  :  0,Atlético Huila,Metropolitano de Techo,2019,Apertura
+Fecha 1,Unión Magdalena,3  :  4,Jaguares,Sierra Nevada,2019,Apertura
+Fecha 1,Atlético Nacional,0  :  0,Once Caldas,Atanasio Girardot,2019,Apertura
+Fecha 1,Cúcuta Deportivo,3  :  0,Rionegro Águilas,General Santander,2019,Apertura
+Fecha 1,Deportivo Cali,2  :  0,Atlético Bucaramanga,Deportivo Cali,2019,Apertura
+Fecha 1,Alianza Petrolera,1  :  2,América de Cali,Daniel Villa Zapata,2019,Apertura
+Fecha 1,Santa Fe,1  :  1,Deportivo Pasto,Nemesio Camacho El Campín,2019,Apertura
+Fecha 1,Envigado F. C.,0  :  1,Millonarios,Polideportivo Sur,2019,Apertura
+Fecha 1,Deportes Tolima,1  :  2,Junior,Manuel Murillo Toro,2019,Apertura
+Fecha 2,Atlético Huila,1  :  1,Unión Magdalena,Guillermo Plazas Alcid,2019,Apertura
+Fecha 2,Independiente Medellín,1  :  1,La Equidad,Atanasio Girardot,2019,Apertura
+Fecha 2,Deportivo Pasto,1  :  1,Envigado F. C.,Municipal de Ipiales,2019,Apertura
+Fecha 2,Santa Fe,1  :  2,Cúcuta Deportivo,Nemesio Camacho El Campín,2019,Apertura
+Fecha 2,Jaguares,1  :  0,Deportivo Cali,Jaraguay,2019,Apertura
+Fecha 2,Rionegro Águilas,0  :  1,Alianza Petrolera,Alberto Grisales,2019,Apertura
+Fecha 2,Junior,3  :  1,Patriotas,Metropolitano Roberto Meléndez,2019,Apertura
+Fecha 2,Atlético Bucaramanga,0  :  1,Atlético Nacional,Alfonso López,2019,Apertura
+Fecha 2,Once Caldas,1  :  0,Millonarios,Palogrande,2019,Apertura
+Fecha 2,América de Cali,3  :  1,Deportes Tolima,Olímpico Pascual Guerrero,2019,Apertura
+Fecha 3,Unión Magdalena,1  :  0,La Equidad,Sierra Nevada,2019,Apertura
+Fecha 3,Deportivo Cali,1  :  1,Atlético Huila,Deportivo Cali,2019,Apertura
+Fecha 3,Junior,3  :  2,Independiente Medellín,Metropolitano Roberto Meléndez,2019,Apertura
+Fecha 3,Atlético Nacional,1  :  0,Jaguares,Atanasio Girardot,2019,Apertura
+Fecha 3,Deportivo Pasto,1  :  2,Once Caldas,Municipal de Ipiales,2019,Apertura
+Fecha 3,Cúcuta Deportivo,1  :  1,Envigado F. C.,General Santander,2019,Apertura
+Fecha 3,Patriotas,1  :  1,América de Cali,La Independencia,2019,Apertura
+Fecha 3,Millonarios,2  :  0,Atlético Bucaramanga,Nemesio Camacho El Campín,2019,Apertura
+Fecha 3,Deportes Tolima,2  :  0,Rionegro Águilas,Metropolitano de Techo,2019,Apertura
+Fecha 3,Alianza Petrolera,0  :  0,Santa Fe,Daniel Villa Zapata,2019,Apertura
+Fecha 4,Atlético Bucaramanga,1  :  0,Deportivo Pasto,Alfonso López,2019,Apertura
+Fecha 4,Jaguares,1  :  2,Millonarios,Jaraguay,2019,Apertura
+Fecha 4,Envigado F. C.,1  :  0,Alianza Petrolera,Polideportivo Sur,2019,Apertura
+Fecha 4,Santa Fe,0  :  1,Deportes Tolima,Nemesio Camacho El Campín,2019,Apertura
+Fecha 4,Independiente Medellín,1  :  1,Unión Magdalena,Atanasio Girardot,2019,Apertura
+Fecha 4,La Equidad,0  :  0,Deportivo Cali,Metropolitano de Techo,2019,Apertura
+Fecha 4,Rionegro Águilas,2  :  1,Patriotas,Alberto Grisales,2019,Apertura
+Fecha 4,Atlético Huila,1  :  1,Atlético Nacional,Guillermo Plazas Alcid,2019,Apertura
+Fecha 4,América de Cali,0  :  1,Junior,Olímpico Pascual Guerrero,2019,Apertura
+Fecha 4,Once Caldas,1  :  2,Cúcuta Deportivo,Palogrande,2019,Apertura
+Fecha 5,Millonarios,3  :  2,Atlético Huila,Nemesio Camacho El Campín,2019,Apertura
+Fecha 5,América de Cali,3  :  0,Independiente Medellín,Olímpico Pascual Guerrero,2019,Apertura
+Fecha 5,Alianza Petrolera,1  :  1,Once Caldas,Daniel Villa Zapata,2019,Apertura
+Fecha 5,Junior,1  :  1,Rionegro Águilas,Metropolitano Roberto Meléndez,2019,Apertura
+Fecha 5,Deportivo Pasto,4  :  1,Jaguares,Municipal de Ipiales,2019,Apertura
+Fecha 5,Deportes Tolima,2  :  0,Envigado F. C.,Metropolitano de Techo,2019,Apertura
+Fecha 5,Cúcuta Deportivo,3  :  2,Atlético Bucaramanga,General Santander,2019,Apertura
+Fecha 5,Patriotas,1  :  1,Santa Fe,La Independencia,2019,Apertura
+Fecha 5,Atlético Nacional,1  :  1,La Equidad,Atanasio Girardot,2019,Apertura
+Fecha 5,Deportivo Cali,2  :  1,Unión Magdalena,Deportivo Cali,2019,Apertura
+Fecha 6,Atlético Huila,2  :  0,Deportivo Pasto,Guillermo Plazas Alcid,2019,Apertura
+Fecha 6,Envigado F. C.,0  :  0,Patriotas,Polideportivo Sur,2019,Apertura
+Fecha 6,Jaguares,1  :  1,Cúcuta Deportivo,Jaraguay,2019,Apertura
+Fecha 6,La Equidad,0  :  1,Millonarios,Metropolitano de Techo,2019,Apertura
+Fecha 6,Atlético Bucaramanga,3  :  0,Alianza Petrolera,Alfonso López,2019,Apertura
+Fecha 6,Rionegro Águilas,1  :  2,América de Cali,Alberto Grisales,2019,Apertura
+Fecha 6,Unión Magdalena,1  :  0,Atlético Nacional,Sierra Nevada,2019,Apertura
+Fecha 6,Independiente Medellín,1  :  1,Deportivo Cali,Atanasio Girardot,2019,Apertura
+Fecha 6,Once Caldas,2  :  1,Deportes Tolima,Palogrande,2019,Apertura
+Fecha 6,Santa Fe,3  :  3,Junior,Nemesio Camacho El Campín,2019,Apertura
+Fecha 7,Alianza Petrolera,1  :  1,Jaguares,Daniel Villa Zapata,2019,Apertura
+Fecha 7,Cúcuta Deportivo,2  :  0,Atlético Huila,General Santander,2019,Apertura
+Fecha 7,Deportivo Pasto,0  :  0,La Equidad,Municipal de Ipiales,2019,Apertura
+Fecha 7,Patriotas,1  :  0,Once Caldas,La Independencia,2019,Apertura
+Fecha 7,Deportes Tolima,0  :  0,Atlético Bucaramanga,Manuel Murillo Toro,2019,Apertura
+Fecha 7,Junior,0  :  0,Envigado F. C.,Metropolitano Roberto Meléndez,2019,Apertura
+Fecha 7,Rionegro Águilas,0  :  1,Independiente Medellín,Alberto Grisales,2019,Apertura
+Fecha 7,América de Cali,0  :  0,Santa Fe,Olímpico Pascual Guerrero,2019,Apertura
+Fecha 7,Millonarios,4  :  0,Unión Magdalena,Nemesio Camacho El Campín,2019,Apertura
+Fecha 7,Atlético Nacional,2  :  2,Deportivo Cali,Atanasio Girardot,2019,Apertura
+Fecha 8,Atlético Bucaramanga,0  :  1,Patriotas,Alfonso López,2019,Apertura
+Fecha 8,Once Caldas,0  :  1,Junior,Palogrande,2019,Apertura
+Fecha 8,Jaguares,0  :  4,Deportes Tolima,Jaraguay,2019,Apertura
+Fecha 8,La Equidad,2  :  1,Cúcuta Deportivo,Metropolitano de Techo,2019,Apertura
+Fecha 8,Santa Fe,2  :  2,Rionegro Águilas,Nemesio Camacho El Campín,2019,Apertura
+Fecha 8,Unión Magdalena,1  :  0,Deportivo Pasto,Sierra Nevada,2019,Apertura
+Fecha 8,Deportivo Cali,1  :  1,Millonarios,Deportivo Cali,2019,Apertura
+Fecha 8,Envigado F. C.,4  :  1,América de Cali,Polideportivo Sur,2019,Apertura
+Fecha 8,Atlético Huila,1  :  2,Alianza Petrolera,Guillermo Plazas Alcid,2019,Apertura
+Fecha 8,Atlético Nacional,1  :  0,Independiente Medellín,Atanasio Girardot,2019,Apertura
+Fecha 9,Deportes Tolima,0  :  0,Atlético Huila,Manuel Murillo Toro,2019,Apertura
+Fecha 9,Millonarios,1  :  1,Atlético Nacional,Nemesio Camacho El Campín,2019,Apertura
+Fecha 9,Alianza Petrolera,2  :  0,La Equidad,Daniel Villa Zapata,2019,Apertura
+Fecha 9,Junior,0  :  0,Atlético Bucaramanga,Metropolitano Roberto Meléndez,2019,Apertura
+Fecha 9,Deportivo Pasto,1  :  0,Deportivo Cali,Municipal de Ipiales,2019,Apertura
+Fecha 9,Patriotas,2  :  1,Jaguares,La Independencia,2019,Apertura
+Fecha 9,Independiente Medellín,1  :  0,Santa Fe,Atanasio Girardot,2019,Apertura
+Fecha 9,Rionegro Águilas,1  :  3,Envigado F. C.,Alberto Grisales,2019,Apertura
+Fecha 9,Cúcuta Deportivo,3  :  1,Unión Magdalena,General Santander,2019,Apertura
+Fecha 9,América de Cali,3  :  1,Once Caldas,Olímpico Pascual Guerrero,2019,Apertura
+Fecha 10,Independiente Medellín,2  :  2,Atlético Nacional,Atanasio Girardot,2019,Apertura
+Fecha 10,Deportivo Cali,0  :  1,América de Cali,Deportivo Cali,2019,Apertura
+Fecha 10,La Equidad,2  :  2,Patriotas,Metropolitano de Techo,2019,Apertura
+Fecha 10,Envigado F. C.,1  :  1,Rionegro Águilas,Polideportivo Sur,2019,Apertura
+Fecha 10,Once Caldas,0  :  1,Deportivo Pasto,Palogrande,2019,Apertura
+Fecha 10,Unión Magdalena,1  :  1,Junior,Sierra Nevada,2019,Apertura
+Fecha 10,Atlético Huila,1  :  5,Deportes Tolima,Guillermo Plazas Alcid,2019,Apertura
+Fecha 10,Jaguares,0  :  0,Alianza Petrolera,Jaraguay,2019,Apertura
+Fecha 10,Atlético Bucaramanga,1  :  0,Cúcuta Deportivo,Alfonso López,2019,Apertura
+Fecha 10,Millonarios,1  :  1,Santa Fe,Nemesio Camacho El Campín,2019,Apertura
+Fecha 11,Deportivo Pasto,1  :  0,Millonarios,Municipal de Ipiales,2019,Apertura
+Fecha 11,Cúcuta Deportivo,1  :  3,Atlético Nacional,General Santander,2019,Apertura
+Fecha 11,Alianza Petrolera,1  :  0,Deportivo Cali,Daniel Villa Zapata,2019,Apertura
+Fecha 11,Deportes Tolima,1  :  0,Unión Magdalena,Manuel Murillo Toro,2019,Apertura
+Fecha 11,Independiente Medellín,4  :  1,Envigado F. C.,Atanasio Girardot,2019,Apertura
+Fecha 11,Junior,3  :  0,Atlético Huila,Metropolitano Roberto Meléndez,2019,Apertura
+Fecha 11,América de Cali,1  :  0,Jaguares,Olímpico Pascual Guerrero,2019,Apertura
+Fecha 11,Santa Fe,0  :  2,Once Caldas,Nemesio Camacho El Campín,2019,Apertura
+Fecha 11,Patriotas,3  :  1,La Equidad,La Independencia,2019,Apertura
+Fecha 11,Rionegro Águilas,1  :  1,Atlético Bucaramanga,Alberto Grisales,2019,Apertura
+Fecha 12,Atlético Huila,1  :  1,Patriotas,Guillermo Plazas Alcid,2019,Apertura
+Fecha 12,La Equidad,0  :  0,Deportes Tolima,Metropolitano de Techo,2019,Apertura
+Fecha 12,Jaguares,1  :  1,Junior,Jaraguay,2019,Apertura
+Fecha 12,Atlético Bucaramanga,0  :  0,América de Cali,Alfonso López,2019,Apertura
+Fecha 12,Once Caldas,2  :  0,Rionegro Águilas,Palogrande,2019,Apertura
+Fecha 12,Atlético Nacional,0  :  1,Deportivo Pasto,Atanasio Girardot,2019,Apertura
+Fecha 12,Unión Magdalena,1  :  1,Alianza Petrolera,Sierra Nevada,2019,Apertura
+Fecha 12,Deportivo Cali,2  :  0,Cúcuta Deportivo,Deportivo Cali,2019,Apertura
+Fecha 12,Millonarios,3  :  2,Independiente Medellín,Nemesio Camacho El Campín,2019,Apertura
+Fecha 12,Envigado F. C.,0  :  0,Santa Fe,Polideportivo Sur,2019,Apertura
+Fecha 13,Patriotas,0  :  3,Deportivo Cali,La Independencia,2019,Apertura
+Fecha 13,Junior,1  :  1,Unión Magdalena,Metropolitano Roberto Meléndez,2019,Apertura
+Fecha 13,Deportes Tolima,2  :  1,Atlético Nacional,Manuel Murillo Toro,2019,Apertura
+Fecha 13,Rionegro Águilas,0  :  0,Atlético Huila,Alberto Grisales,2019,Apertura
+Fecha 13,América de Cali,1  :  3,La Equidad,Olímpico Pascual Guerrero,2019,Apertura
+Fecha 13,Envigado F. C.,1  :  2,Atlético Bucaramanga,Polideportivo Sur,2019,Apertura
+Fecha 13,Cúcuta Deportivo,1  :  3,Deportivo Pasto,General Santander,2019,Apertura
+Fecha 13,Alianza Petrolera,0  :  2,Millonarios,Daniel Villa Zapata,2019,Apertura
+Fecha 13,Santa Fe,0  :  0,Jaguares,Nemesio Camacho El Campín,2019,Apertura
+Fecha 13,Independiente Medellín,1  :  1,Once Caldas,Atanasio Girardot,2019,Apertura
+Fecha 14,Deportivo Cali,2  :  1,Deportes Tolima,Deportivo Cali,2019,Apertura
+Fecha 14,Unión Magdalena,4  :  0,Patriotas,Sierra Nevada,2019,Apertura
+Fecha 14,Atlético Huila,2  :  1,América de Cali,Guillermo Plazas Alcid,2019,Apertura
+Fecha 14,La Equidad,2  :  2,Junior,Metropolitano de Techo,2019,Apertura
+Fecha 14,Deportivo Pasto,1  :  0,Independiente Medellín,Municipal de Ipiales,2019,Apertura
+Fecha 14,Jaguares,2  :  0,Rionegro Águilas,Jaraguay,2019,Apertura
+Fecha 14,Atlético Nacional,1  :  0,Alianza Petrolera,Atanasio Girardot,2019,Apertura
+Fecha 14,Atlético Bucaramanga,2  :  1,Santa Fe,Alfonso López,2019,Apertura
+Fecha 14,Millonarios,1  :  0,Cúcuta Deportivo,Nemesio Camacho El Campín,2019,Apertura
+Fecha 14,Once Caldas,1  :  0,Envigado F. C.,Palogrande,2019,Apertura
+Fecha 15,Rionegro Águilas,0  :  1,Unión Magdalena,Alberto Grisales,2019,Apertura
+Fecha 15,Once Caldas,0  :  1,Jaguares,Palogrande,2019,Apertura
+Fecha 15,Santa Fe,1  :  1,La Equidad,Nemesio Camacho El Campín,2019,Apertura
+Fecha 15,Independiente Medellín,4  :  0,Atlético Bucaramanga,Atanasio Girardot,2019,Apertura
+Fecha 15,Alianza Petrolera,0  :  1,Cúcuta Deportivo,Daniel Villa Zapata,2019,Apertura
+Fecha 15,Patriotas,1  :  3,Millonarios,La Independencia,2019,Apertura
+Fecha 15,Junior,0  :  0,Atlético Nacional,Metropolitano Roberto Meléndez,2019,Apertura
+Fecha 15,Envigado F. C.,1  :  1,Atlético Huila,Polideportivo Sur,2019,Apertura
+Fecha 15,Deportes Tolima,0  :  0,Deportivo Pasto,Manuel Murillo Toro,2019,Apertura
+Fecha 15,América de Cali,0  :  1,Deportivo Cali,Olímpico Pascual Guerrero,2019,Apertura
+Fecha 16,Cúcuta Deportivo,2  :  2,Independiente Medellín,General Santander,2019,Apertura
+Fecha 16,Atlético Bucaramanga,1  :  1,Once Caldas,Alfonso López,2019,Apertura
+Fecha 16,Deportivo Pasto,1  :  0,Alianza Petrolera,Municipal de Ipiales,2019,Apertura
+Fecha 16,Jaguares,2  :  2,Envigado F. C.,Jaraguay,2019,Apertura
+Fecha 16,Atlético Huila,0  :  3,Santa Fe,Guillermo Plazas Alcid,2019,Apertura
+Fecha 16,Millonarios,1  :  2,Deportes Tolima,Nemesio Camacho El Campín,2019,Apertura
+Fecha 16,Deportivo Cali,0  :  0,Junior,Deportivo Cali,2019,Apertura
+Fecha 16,Unión Magdalena,0  :  3,América de Cali,Sierra Nevada,2019,Apertura
+Fecha 16,Atlético Nacional,4  :  0,Patriotas,Atanasio Girardot,2019,Apertura
+Fecha 16,La Equidad,2  :  2,Rionegro Águilas,Metropolitano de Techo,2019,Apertura
+Fecha 17,Once Caldas,1  :  0,La Equidad,Palogrande,2019,Apertura
+Fecha 17,Deportes Tolima,2  :  2,Alianza Petrolera,Manuel Murillo Toro,2019,Apertura
+Fecha 17,Independiente Medellín,3  :  0,Jaguares,Atanasio Girardot,2019,Apertura
+Fecha 17,Santa Fe,1  :  2,Deportivo Cali,Nemesio Camacho El Campín,2019,Apertura
+Fecha 17,Patriotas,1  :  0,Cúcuta Deportivo,La Independencia,2019,Apertura
+Fecha 17,Envigado F. C.,1  :  1,Unión Magdalena,Polideportivo Sur,2019,Apertura
+Fecha 17,América de Cali,1  :  1,Millonarios,Olímpico Pascual Guerrero,2019,Apertura
+Fecha 17,Junior,0  :  0,Deportivo Pasto,Metropolitano Roberto Meléndez,2019,Apertura
+Fecha 17,Rionegro Águilas,2  :  1,Atlético Nacional,Alberto Grisales,2019,Apertura
+Fecha 17,Atlético Bucaramanga,2  :  4,Atlético Huila,Alfonso López,2019,Apertura
+Fecha 18,La Equidad,0  :  1,Envigado F. C.,Metropolitano de Techo,2019,Apertura
+Fecha 18,Unión Magdalena,3  :  1,Santa Fe,Sierra Nevada,2019,Apertura
+Fecha 18,Deportivo Cali,2  :  1,Rionegro Águilas,Deportivo Cali,2019,Apertura
+Fecha 18,Atlético Nacional,2  :  0,América de Cali,Atanasio Girardot,2019,Apertura
+Fecha 18,Alianza Petrolera,1  :  1,Independiente Medellín,Daniel Villa Zapata,2019,Apertura
+Fecha 18,Deportivo Pasto,1  :  1,Patriotas,Municipal de Ipiales,2019,Apertura
+Fecha 18,Jaguares,1  :  1,Atlético Bucaramanga,Jaraguay,2019,Apertura
+Fecha 18,Millonarios,2  :  0,Junior,Nemesio Camacho El Campín,2019,Apertura
+Fecha 18,Atlético Huila,1  :  0,Once Caldas,Guillermo Plazas Alcid,2019,Apertura
+Fecha 18,Cúcuta Deportivo,0  :  2,Deportes Tolima,General Santander,2019,Apertura
+Fecha 19,Once Caldas,4  :  0,Deportivo Cali,Palogrande,2019,Apertura
+Fecha 19,Envigado F. C.,4  :  0,Atlético Nacional,Polideportivo Sur,2019,Apertura
+Fecha 19,Patriotas,1  :  0,Deportes Tolima,La Independencia,2019,Apertura
+Fecha 19,Rionegro Águilas,2  :  1,Deportivo Pasto,Alberto Grisales,2019,Apertura
+Fecha 19,Jaguares,1  :  1,La Equidad,Jaraguay,2019,Apertura
+Fecha 19,Santa Fe,0  :  0,Millonarios,Nemesio Camacho El Campín,2019,Apertura
+Fecha 19,Independiente Medellín,2  :  1,Atlético Huila,Atanasio Girardot,2019,Apertura
+Fecha 19,Atlético Bucaramanga,0  :  1,Unión Magdalena,Alfonso López,2019,Apertura
+Fecha 19,Junior,1  :  1,Alianza Petrolera,Metropolitano Roberto Meléndez,2019,Apertura
+Fecha 19,América de Cali,2  :  0,Cúcuta Deportivo,Olímpico Pascual Guerrero,2019,Apertura
+Fecha 20,Atlético Huila,0  :  2,Jaguares,Guillermo Plazas Alcid,2019,Apertura
+Fecha 20,Deportes Tolima,0  :  1,Independiente Medellín,Manuel Murillo Toro,2019,Apertura
+Fecha 20,Alianza Petrolera,3  :  0,Patriotas,Daniel Villa Zapata,2019,Apertura
+Fecha 20,Cúcuta Deportivo,2  :  1,Junior,General Santander,2019,Apertura
+Fecha 20,Deportivo Pasto,1  :  1,América de Cali,Municipal de Ipiales,2019,Apertura
+Fecha 20,Atlético Nacional,2  :  1,Santa Fe,Atanasio Girardot,2019,Apertura
+Fecha 20,Deportivo Cali,1  :  0,Envigado F. C.,Deportivo Cali,2019,Apertura
+Fecha 20,Unión Magdalena,1  :  0,Once Caldas,Sierra Nevada,2019,Apertura
+Fecha 20,Millonarios,1  :  1,Rionegro Águilas,Nemesio Camacho El Campín,2019,Apertura
+Fecha 20,La Equidad,3  :  1,Atlético Bucaramanga,Metropolitano de Techo,2019,Apertura

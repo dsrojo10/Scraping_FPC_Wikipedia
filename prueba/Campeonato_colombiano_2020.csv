@@ -1,0 +1,201 @@
+Fecha,Local,Resultado,Visitante,Estadio,Año,Tipo de Torneo
+Fecha 1,Deportes Tolima,2  :  2[n 1]​,Independiente Medellín,Manuel Murillo Toro,2020,colombiano
+Fecha 1,Águilas Doradas,2  :  0,Jaguares,Alberto Grisales,2020,colombiano
+Fecha 1,Once Caldas,0  :  0,Santa Fe,Palogrande,2020,colombiano
+Fecha 1,Envigado F. C.,1  :  0,Boyacá Chicó,Polideportivo Sur,2020,colombiano
+Fecha 1,Atlético Bucaramanga,0  :  2,Deportivo Cali,Daniel Villa Zapata,2020,colombiano
+Fecha 1,Junior,2  :  0,La Equidad,Metropolitano Roberto Meléndez,2020,colombiano
+Fecha 1,América de Cali,3  :  1,Alianza Petrolera,Olímpico Pascual Guerrero,2020,colombiano
+Fecha 1,Patriotas,1  :  1,Cúcuta Deportivo,La Independencia,2020,colombiano
+Fecha 1,Atlético Nacional,2  :  0,Deportivo Pereira,Atanasio Girardot,2020,colombiano
+Fecha 1,Millonarios,1  :  2[n 1]​,Deportivo Pasto,Nemesio Camacho El Campín,2020,colombiano
+Fecha 2,Once Caldas,1  :  1,Atlético Bucaramanga,Palogrande,2020,colombiano
+Fecha 2,Independiente Medellín,2  :  1,Águilas Doradas,Atanasio Girardot,2020,colombiano
+Fecha 2,Deportivo Cali,0  :  0,Junior,Deportivo Cali,2020,colombiano
+Fecha 2,Jaguares,2  :  2,América de Cali,Jaraguay,2020,colombiano
+Fecha 2,Boyacá Chicó,1  :  0[n 1]​,Patriotas,La Independencia,2020,colombiano
+Fecha 2,La Equidad,3  :  4[n 1]​,Atlético Nacional,Nemesio Camacho El Campín,2020,colombiano
+Fecha 2,Alianza Petrolera,1  :  0,Deportivo Pereira,Daniel Villa Zapata,2020,colombiano
+Fecha 2,Santa Fe,1  :  1,Envigado F. C.,Nemesio Camacho El Campín,2020,colombiano
+Fecha 2,Cúcuta Deportivo,1  :  1,Millonarios,General Santander,2020,colombiano
+Fecha 2,Deportivo Pasto,1  :  3,Deportes Tolima,Departamental Libertad,2020,colombiano
+Fecha 3,Atlético Bucaramanga,0  :  0,Deportes Tolima,Daniel Villa Zapata,2020,colombiano
+Fecha 3,Junior,1  :  0[n 1]​,Independiente Medellín,Metropolitano Roberto Meléndez,2020,colombiano
+Fecha 3,Atlético Nacional,1  :  2[n 1]​,Jaguares,Atanasio Girardot,2020,colombiano
+Fecha 3,Deportivo Pereira,2  :  0,Cúcuta Deportivo,Hernán Ramírez Villegas,2020,colombiano
+Fecha 3,Millonarios,2  :  2,La Equidad,Nemesio Camacho El Campín,2020,colombiano
+Fecha 3,América de Cali,1  :  0,Boyacá Chicó,Centenario de Armenia,2020,colombiano
+Fecha 3,Alianza Petrolera,0  :  1,Deportivo Pasto,Daniel Villa Zapata,2020,colombiano
+Fecha 3,Águilas Doradas,1  :  0,Santa Fe,Alberto Grisales,2020,colombiano
+Fecha 3,Envigado F. C.,0  :  1,Once Caldas,Polideportivo Sur,2020,colombiano
+Fecha 3,Patriotas,0  :  0,Deportivo Cali,La Independencia,2020,colombiano
+Fecha 4,Independiente Medellín,3  :  1,Patriotas,Atanasio Girardot,2020,colombiano
+Fecha 4,Deportivo Pasto,4  :  0,Atlético Bucaramanga,Departamental Libertad,2020,colombiano
+Fecha 4,Deportes Tolima,3  :  0,Envigado F. C.,Manuel Murillo Toro,2020,colombiano
+Fecha 4,Cúcuta Deportivo,0  :  2,Alianza Petrolera,General Santander,2020,colombiano
+Fecha 4,Deportivo Cali,2  :  1[n 1]​,América de Cali,Deportivo Cali,2020,colombiano
+Fecha 4,Santa Fe,3  :  1[n 1]​,Junior,Nemesio Camacho El Campín,2020,colombiano
+Fecha 4,La Equidad,3  :  3,Deportivo Pereira,Metropolitano de Techo,2020,colombiano
+Fecha 4,Jaguares,4  :  1,Millonarios,Jaraguay,2020,colombiano
+Fecha 4,Once Caldas,1  :  1,Águilas Doradas,Palogrande,2020,colombiano
+Fecha 4,Boyacá Chicó,0  :  3,Atlético Nacional,La Independencia,2020,colombiano
+Fecha 5,Águilas Doradas,1  :  1,Deportes Tolima,Alberto Grisales,2020,colombiano
+Fecha 5,Alianza Petrolera,1  :  0,La Equidad,Daniel Villa Zapata,2020,colombiano
+Fecha 5,América de Cali,2  :  0[n 1]​,Independiente Medellín,Olímpico Pascual Guerrero,2020,colombiano
+Fecha 5,Millonarios,2  :  1,Boyacá Chicó,Nemesio Camacho El Campín,2020,colombiano
+Fecha 5,Atlético Nacional,2  :  2,Deportivo Cali,Atanasio Girardot,2020,colombiano
+Fecha 5,Patriotas,0  :  2,Santa Fe,La Independencia,2020,colombiano
+Fecha 5,Envigado F. C.,4  :  0,Atlético Bucaramanga,Polideportivo Sur,2020,colombiano
+Fecha 5,Junior,0  :  0,Once Caldas,Metropolitano Roberto Meléndez,2020,colombiano
+Fecha 5,Cúcuta Deportivo,0  :  0[n 1]​,Deportivo Pasto,General Santander,2020,colombiano
+Fecha 5,Deportivo Pereira,1  :  0,Jaguares,Hernán Ramírez Villegas,2020,colombiano
+Fecha 6,Deportivo Pasto,1  :  0,Envigado F. C.,Departamental Libertad,2020,colombiano
+Fecha 6,Santa Fe,2  :  0,América de Cali,Nemesio Camacho El Campín,2020,colombiano
+Fecha 6,Boyacá Chicó,0  :  1,Deportivo Pereira,La Independencia,2020,colombiano
+Fecha 6,Independiente Medellín,1  :  3[n 1]​,Atlético Nacional,Atanasio Girardot,2020,colombiano
+Fecha 6,Deportes Tolima,0  :  0[n 1]​,Junior,Manuel Murillo Toro,2020,colombiano
+Fecha 6,La Equidad,4  :  1,Cúcuta Deportivo,Metropolitano de Techo,2020,colombiano
+Fecha 6,Atlético Bucaramanga,2  :  0,Águilas Doradas,Alfonso López,2020,colombiano
+Fecha 6,Once Caldas,0  :  0,Patriotas,Palogrande,2020,colombiano
+Fecha 6,Jaguares,1  :  3,Alianza Petrolera,Jaraguay,2020,colombiano
+Fecha 6,Deportivo Cali,1  :  1,Millonarios,Deportivo Cali,2020,colombiano
+Fecha 7,Junior,3  :  2,Jaguares,Metropolitano Roberto Meléndez,2020,colombiano
+Fecha 7,Patriotas,1  :  1[n 1]​,Boyacá Chicó,La Independencia,2020,colombiano
+Fecha 7,Atlético Nacional,1  :  1,Independiente Medellín,Atanasio Girardot,2020,colombiano
+Fecha 7,América de Cali,1  :  1,Deportivo Cali,Olímpico Pascual Guerrero,2020,colombiano
+Fecha 7,Alianza Petrolera,0  :  1,Deportes Tolima,Daniel Villa Zapata,2020,colombiano
+Fecha 7,Deportivo Pasto,1  :  2,La Equidad,Departamental Libertad,2020,colombiano
+Fecha 7,Águilas Doradas,1  :  1[n 1]​,Envigado F. C.,Alberto Grisales,2020,colombiano
+Fecha 7,Cúcuta Deportivo,0  :  1,Atlético Bucaramanga,General Santander,2020,colombiano
+Fecha 7,Deportivo Pereira,1  :  3,Once Caldas,Hernán Ramírez Villegas,2020,colombiano
+Fecha 7,Millonarios,0  :  0,Santa Fe,Nemesio Camacho El Campín,2020,colombiano
+Fecha 8,Deportivo Cali,2  :  2,Deportivo Pereira,Deportivo Cali,2020,colombiano
+Fecha 8,Once Caldas,1  :  1[n 1]​,América de Cali,Palogrande,2020,colombiano
+Fecha 8,Independiente Medellín,1  :  0,Millonarios,Atanasio Girardot,2020,colombiano
+Fecha 8,Atlético Bucaramanga,1  :  1,Junior,Alfonso López,2020,colombiano
+Fecha 8,Boyacá Chicó,2  :  2,Alianza Petrolera,La Independencia,2020,colombiano
+Fecha 8,Envigado F. C.,2  :  2,Águilas Doradas,Polideportivo Sur,2020,colombiano
+Fecha 8,Santa Fe,2  :  2[n 1]​,Atlético Nacional,Nemesio Camacho El Campín,2020,colombiano
+Fecha 8,Deportes Tolima,1  :  0,Patriotas,Manuel Murillo Toro,2020,colombiano
+Fecha 8,Jaguares,0  :  3,Cúcuta Deportivo,Jaraguay,2020,colombiano
+Fecha 8,La Equidad,1  :  1,Deportivo Pasto,Metropolitano de Techo,2020,colombiano
+Fecha 9,La Equidad,4  :  0,Boyacá Chicó,Metropolitano de Techo,2020,colombiano
+Fecha 9,Patriotas,0  :  1,Envigado F. C.,La Independencia,2020,colombiano
+Fecha 9,Deportivo Pereira,1  :  2,Santa Fe,Hernán Ramírez Villegas,2020,colombiano
+Fecha 9,Alianza Petrolera,1  :  0,Independiente Medellín,Daniel Villa Zapata,2020,colombiano
+Fecha 9,Millonarios,1  :  3[n 1]​,Once Caldas,Nemesio Camacho El Campín,2020,colombiano
+Fecha 9,Deportivo Pasto,2  :  0,Jaguares,Departamental Libertad,2020,colombiano
+Fecha 9,América de Cali,2  :  1,Atlético Bucaramanga,Olímpico Pascual Guerrero,2020,colombiano
+Fecha 9,Junior,2  :  1,Águilas Doradas,Romelio Martínez,2020,colombiano
+Fecha 9,Cúcuta Deportivo,3  :  3,Deportivo Cali,Centenario de Armenia,2020,colombiano
+Fecha 9,Atlético Nacional,1  :  2[n 1]​,Deportes Tolima,Atanasio Girardot,2020,colombiano
+Fecha 10,Jaguares,2  :  0,La Equidad,Jaraguay,2020,colombiano
+Fecha 10,Once Caldas,2  :  0,Atlético Nacional,Palogrande,2020,colombiano
+Fecha 10,Atlético Bucaramanga,1  :  1,Patriotas,Alfonso López,2020,colombiano
+Fecha 10,Envigado F. C.,1  :  0,Junior,Polideportivo Sur,2020,colombiano
+Fecha 10,Deportes Tolima,1  :  0,América de Cali,Manuel Murillo Toro,2020,colombiano
+Fecha 10,Boyacá Chicó,0  :  2,Cúcuta Deportivo,La Independencia,2020,colombiano
+Fecha 10,Deportivo Cali,2  :  0,Alianza Petrolera,Deportivo Cali,2020,colombiano
+Fecha 10,Independiente Medellín,1  :  1,Deportivo Pereira,Atanasio Girardot,2020,colombiano
+Fecha 10,Santa Fe,1  :  1[n 1]​,Millonarios,Nemesio Camacho El Campín,2020,colombiano
+Fecha 10,Águilas Doradas,1  :  1[n 1]​,Deportivo Pasto,Alberto Grisales,2020,colombiano
+Fecha 11,Alianza Petrolera,1  :  1,Once Caldas,Daniel Villa Zapata,2020,colombiano
+Fecha 11,Cúcuta Deportivo,2  :  3,Santa Fe,Centenario de Armenia,2020,colombiano
+Fecha 11,Millonarios,0  :  0,Atlético Bucaramanga,Nemesio Camacho El Campín,2020,colombiano
+Fecha 11,Deportivo Pasto,2  :  1,Boyacá Chicó,Departamental Libertad,2020,colombiano
+Fecha 11,Jaguares,0  :  0[n 1]​,Deportivo Cali,Jaraguay,2020,colombiano
+Fecha 11,Deportivo Pereira,0  :  0,Deportes Tolima,Hernán Ramírez Villegas,2020,colombiano
+Fecha 11,Atlético Nacional,3  :  2,Envigado F. C.,Atanasio Girardot,2020,colombiano
+Fecha 11,Patriotas,0  :  0,Junior,La Independencia,2020,colombiano
+Fecha 11,América de Cali,3  :  1,Águilas Doradas,Olímpico Pascual Guerrero,2020,colombiano
+Fecha 11,La Equidad,1  :  0,Independiente Medellín,Metropolitano de Techo,2020,colombiano
+Fecha 12,Santa Fe,4  :  1,Alianza Petrolera,Nemesio Camacho El Campín,2020,colombiano
+Fecha 12,Once Caldas,0  :  3(W.O.)[n 6]​,Deportivo Pereira,Palogrande,2020,colombiano
+Fecha 12,Deportes Tolima,2  :  2,Millonarios,Manuel Murillo Toro,2020,colombiano
+Fecha 12,Atlético Bucaramanga,1  :  2[n 1]​,Atlético Nacional,Alfonso López,2020,colombiano
+Fecha 12,Deportivo Cali,1  :  0,La Equidad,Deportivo Cali,2020,colombiano
+Fecha 12,Envigado F. C.,1  :  1[n 1]​,América de Cali,Polideportivo Sur,2020,colombiano
+Fecha 12,Junior,0  :  1,Deportivo Pasto,Romelio Martínez,2020,colombiano
+Fecha 12,Águilas Doradas,3  :  0,Patriotas,Alberto Grisales,2020,colombiano
+Fecha 12,Boyacá Chicó,1  :  0,Jaguares,La Independencia,2020,colombiano
+Fecha 12,Independiente Medellín,4  :  1,Cúcuta Deportivo,Atanasio Girardot,2020,colombiano
+Fecha 13,La Equidad,2  :  0,Once Caldas,Metropolitano de Techo,2020,colombiano
+Fecha 13,Deportivo Pereira,1  :  1[n 1]​,Envigado F. C.,Hernán Ramírez Villegas,2020,colombiano
+Fecha 13,Deportivo Pasto,1  :  1,Deportivo Cali,Departamental Libertad,2020,colombiano
+Fecha 13,Atlético Nacional,2  :  2[n 1]​,Junior,Atanasio Girardot,2020,colombiano
+Fecha 13,Cúcuta Deportivo,0  :  3,Deportes Tolima,Centenario de Armenia,2020,colombiano
+Fecha 13,Boyacá Chicó,1  :  0,Independiente Medellín,La Independencia,2020,colombiano
+Fecha 13,América de Cali,3  :  0,Patriotas,Olímpico Pascual Guerrero,2020,colombiano
+Fecha 13,Millonarios,0  :  0,Águilas Doradas,Nemesio Camacho El Campín,2020,colombiano
+Fecha 13,Alianza Petrolera,1  :  2,Atlético Bucaramanga,Daniel Villa Zapata,2020,colombiano
+Fecha 13,Jaguares,1  :  1,Santa Fe,Jaraguay,2020,colombiano
+Fecha 14,Patriotas,1  :  1,Deportivo Pasto,La Independencia,2020,colombiano
+Fecha 14,Deportivo Cali,3  :  1,Boyacá Chicó,Deportivo Cali,2020,colombiano
+Fecha 14,Once Caldas,1  :  1,Cúcuta Deportivo,Palogrande,2020,colombiano
+Fecha 14,Envigado F. C.,1  :  2,Millonarios,Polideportivo Sur,2020,colombiano
+Fecha 14,Junior,1  :  1,América de Cali,Metropolitano Roberto Meléndez,2020,colombiano
+Fecha 14,Santa Fe,1  :  0[n 1]​,La Equidad,Nemesio Camacho El Campín,2020,colombiano
+Fecha 14,Independiente Medellín,1  :  1,Jaguares,Atanasio Girardot,2020,colombiano
+Fecha 14,Deportes Tolima,3  :  1,Alianza Petrolera,Manuel Murillo Toro,2020,colombiano
+Fecha 14,Águilas Doradas,2  :  3[n 1]​,Atlético Nacional,Alberto Grisales,2020,colombiano
+Fecha 14,Atlético Bucaramanga,1  :  0,Deportivo Pereira,Alfonso López,2020,colombiano
+Fecha 15,Boyacá Chicó,1  :  1,Once Caldas,La Independencia,2020,colombiano
+Fecha 15,Cúcuta Deportivo,1  :  0,Envigado F. C.,Centenario de Armenia,2020,colombiano
+Fecha 15,Millonarios,1  :  0,Patriotas,Nemesio Camacho El Campín,2020,colombiano
+Fecha 15,La Equidad,2  :  1,Atlético Bucaramanga,Metropolitano de Techo,2020,colombiano
+Fecha 15,Deportivo Pereira,0  :  2,Junior,Hernán Ramírez Villegas,2020,colombiano
+Fecha 15,Jaguares,1  :  1[n 1]​,Deportes Tolima,Jaraguay,2020,colombiano
+Fecha 15,Atlético Nacional,2  :  2,América de Cali,Atanasio Girardot,2020,colombiano
+Fecha 15,Deportivo Pasto,2  :  1,Independiente Medellín,Departamental Libertad,2020,colombiano
+Fecha 15,Alianza Petrolera,0  :  1[n 1]​,Águilas Doradas,Daniel Villa Zapata,2020,colombiano
+Fecha 15,Deportivo Cali,3  :  2[n 1]​,Santa Fe,Deportivo Cali,2020,colombiano
+Fecha 16,Once Caldas,2  :  1,Jaguares,Palogrande,2020,colombiano
+Fecha 16,Deportes Tolima,1  :  2,La Equidad,Manuel Murillo Toro,2020,colombiano
+Fecha 16,Junior,1  :  1[n 1]​,Millonarios,Metropolitano Roberto Meléndez,2020,colombiano
+Fecha 16,Envigado F. C.,3  :  3,Alianza Petrolera,Polideportivo Sur,2020,colombiano
+Fecha 16,Patriotas,2  :  1,Atlético Nacional,La Independencia,2020,colombiano
+Fecha 16,Santa Fe,3  :  1,Boyacá Chicó,Nemesio Camacho El Campín,2020,colombiano
+Fecha 16,América de Cali,3  :  2,Deportivo Pasto,Olímpico Pascual Guerrero,2020,colombiano
+Fecha 16,Independiente Medellín,2  :  3[n 1]​,Deportivo Cali,Atanasio Girardot,2020,colombiano
+Fecha 16,Águilas Doradas,1  :  0,Deportivo Pereira,Alberto Grisales,2020,colombiano
+Fecha 16,Atlético Bucaramanga,1  :  0,Cúcuta Deportivo,Alfonso López,2020,colombiano
+Fecha 17,Jaguares,0  :  0,Envigado F. C.,Jaraguay,2020,colombiano
+Fecha 17,Millonarios,3  :  0[n 1]​,Atlético Nacional,Nemesio Camacho El Campín,2020,colombiano
+Fecha 17,Deportivo Cali,1  :  2,Deportes Tolima,Deportivo Cali,2020,colombiano
+Fecha 17,La Equidad,0  :  0[n 1]​,Águilas Doradas,Metropolitano de Techo,2020,colombiano
+Fecha 17,Cúcuta Deportivo,1  :  4,Junior,Centenario de Armenia,2020,colombiano
+Fecha 17,Deportivo Pasto,1  :  1,Santa Fe,Departamental Libertad,2020,colombiano
+Fecha 17,Independiente Medellín,1  :  1,Once Caldas,Atanasio Girardot,2020,colombiano
+Fecha 17,Boyacá Chicó,1  :  0,Atlético Bucaramanga,La Independencia,2020,colombiano
+Fecha 17,Deportivo Pereira,0  :  1,América de Cali,Hernán Ramírez Villegas,2020,colombiano
+Fecha 17,Alianza Petrolera,0  :  0,Patriotas,Daniel Villa Zapata,2020,colombiano
+Fecha 18,Santa Fe,3  :  0,Independiente Medellín,Nemesio Camacho El Campín,2020,colombiano
+Fecha 18,Envigado F. C.,1  :  1,La Equidad,Polideportivo Sur,2020,colombiano
+Fecha 18,Águilas Doradas,2  :  1,Cúcuta Deportivo,Alberto Grisales,2020,colombiano
+Fecha 18,Patriotas,1  :  0,Deportivo Pereira,La Independencia,2020,colombiano
+Fecha 18,Atlético Bucaramanga,2  :  2,Jaguares,Alfonso López,2020,colombiano
+Fecha 18,Deportes Tolima,2  :  0,Boyacá Chicó,Manuel Murillo Toro,2020,colombiano
+Fecha 18,América de Cali,0  :  2[n 1]​,Millonarios,Olímpico Pascual Guerrero,2020,colombiano
+Fecha 18,Once Caldas,1  :  1[n 1]​,Deportivo Cali,Palogrande,2020,colombiano
+Fecha 18,Junior,2  :  1,Alianza Petrolera,Romelio Martínez,2020,colombiano
+Fecha 18,Atlético Nacional,1  :  0,Deportivo Pasto,Atanasio Girardot,2020,colombiano
+Fecha 19,La Equidad,1  :  0,Patriotas,Metropolitano de Techo,2020,colombiano
+Fecha 19,Independiente Medellín,1  :  0,Atlético Bucaramanga,Atanasio Girardot,2020,colombiano
+Fecha 19,Deportivo Pereira,0  :  2,Millonarios,Hernán Ramírez Villegas,2020,colombiano
+Fecha 19,Santa Fe,1  :  0,Deportes Tolima,Nemesio Camacho El Campín,2020,colombiano
+Fecha 19,Deportivo Cali,3  :  0,Envigado F. C.,Deportivo Cali,2020,colombiano
+Fecha 19,Jaguares,2  :  2,Junior,Jaraguay,2020,colombiano
+Fecha 19,Boyacá Chicó,1  :  2[n 1]​,Águilas Doradas,La Independencia,2020,colombiano
+Fecha 19,Alianza Petrolera,2  :  3,Atlético Nacional,Daniel Villa Zapata,2020,colombiano
+Fecha 19,Deportivo Pasto,2  :  1[n 1]​,Once Caldas,Departamental Libertad,2020,colombiano
+Fecha 19,Cúcuta Deportivo,0  :  3(W.O.)[n 7]​,América de Cali,Centenario de Armenia,2020,colombiano
+Fecha 20,Patriotas,2  :  0,Jaguares,La Independencia,2020,colombiano
+Fecha 20,Envigado F. C.,2  :  1,Independiente Medellín,Polideportivo Sur,2020,colombiano
+Fecha 20,Atlético Bucaramanga,1  :  2,Santa Fe,Alfonso López,2020,colombiano
+Fecha 20,Millonarios,6  :  1,Alianza Petrolera,Nemesio Camacho El Campín,2020,colombiano
+Fecha 20,América de Cali,1  :  2[n 1]​,La Equidad,Olímpico Pascual Guerrero,2020,colombiano
+Fecha 20,Deportivo Pereira,1  :  1,Deportivo Pasto,Hernán Ramírez Villegas,2020,colombiano
+Fecha 20,Junior,3  :  0,Boyacá Chicó,Metropolitano Roberto Meléndez,2020,colombiano
+Fecha 20,Águilas Doradas,4  :  1[n 1]​,Deportivo Cali,Alberto Grisales,2020,colombiano
+Fecha 20,Deportes Tolima,2  :  3,Once Caldas,Manuel Murillo Toro,2020,colombiano
+Fecha 20,Atlético Nacional,3  :  0(W.O.)[n 7]​,Cúcuta Deportivo,Atanasio Girardot,2020,colombiano

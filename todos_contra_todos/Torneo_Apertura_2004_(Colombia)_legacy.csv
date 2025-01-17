@@ -1,0 +1,163 @@
+Fecha,Día,Local,Resultado,Visitante,Año,Tipo de Torneo
+Fecha 1,7 de febrero,Millonarios,2  -  0,Cortuluá,2004,Apertura
+Fecha 1,8 de febrero,Bogotá Chicó,1  -  1,Junior,2004,Apertura
+Fecha 1,8 de febrero,Pasto,1  -  0,Santa Fe,2004,Apertura
+Fecha 1,8 de febrero,América,4  -  0,Deportes Quindío,2004,Apertura
+Fecha 1,8 de febrero,Envigado F. C.,1  -  1,Cali,2004,Apertura
+Fecha 1,8 de febrero,Unión Magdalena,0  -  0,Bucaramanga,2004,Apertura
+Fecha 1,8 de febrero,Pereira,1  -  1,Once Caldas,2004,Apertura
+Fecha 1,8 de febrero,Nacional,4  -  0,Huila,2004,Apertura
+Fecha 1,8 de febrero,Tolima,0  -  0,Medellín,2004,Apertura
+Fecha 2,14 de febrero,Santa Fe,1  -  1,Nacional,2004,Apertura
+Fecha 2,7 de febrero,Medellín,1  -  0,Millonarios,2004,Apertura
+Fecha 2,7 de febrero,Cali,3  -  1,América,2004,Apertura
+Fecha 2,7 de febrero,Bucaramanga,2  -  2,Envigado F. C.,2004,Apertura
+Fecha 2,7 de febrero,Once Caldas,1  -  0,Tolima,2004,Apertura
+Fecha 2,7 de febrero,Huila,0  -  1,Pereira,2004,Apertura
+Fecha 2,7 de febrero,Cortuluá,3  -  1,Unión Magdalena,2004,Apertura
+Fecha 2,7 de febrero,Deportes Quindío,1  -  2,Bogotá Chicó,2004,Apertura
+Fecha 2,7 de febrero,Junior,2  -  0,Pasto,2004,Apertura
+Fecha 3,19 de febrero,Bogotá Chicó,1  -  2,América,2004,Apertura
+Fecha 3,20 de febrero,Tolima,0  -  2,Huila,2004,Apertura
+Fecha 3,21 de febrero,Cali,2  -  0,Bucaramanga,2004,Apertura
+Fecha 3,22 de febrero,Unión Magdalena,0  -  1,Medellín,2004,Apertura
+Fecha 3,22 de febrero,Pasto,2  -  1,Deportes Quindío,2004,Apertura
+Fecha 3,22 de febrero,Pereira,2  -  1,Santa Fe,2004,Apertura
+Fecha 3,22 de febrero,Envigado,4  -  3,Cortuluá,2004,Apertura
+Fecha 3,22 de febrero,Millonarios,0  -  1,Once Caldas,2004,Apertura
+Fecha 3,22 de febrero,Nacional,2  -  1,Junior,2004,Apertura
+Fecha 4,25 de febrero,América,2  -  1,Bucaramanga,2004,Apertura
+Fecha 4,26 de febrero,Medellín,2  -  2,Envigado F. C.,2004,Apertura
+Fecha 4,26 de febrero,Huila,3  -  0,Millonarios,2004,Apertura
+Fecha 4,26 de febrero,Cortuluá,1  -  0,Cali,2004,Apertura
+Fecha 4,26 de febrero,Bogotá Chicó,1  -  1,Pasto,2004,Apertura
+Fecha 4,26 de febrero,Deportes Quindío,1  -  2,Nacional,2004,Apertura
+Fecha 4,26 de febrero,Santa Fe,1  -  1,Tolima,2004,Apertura
+Fecha 4,26 de febrero,Once Caldas,2  -  0,Unión Magdalena,2004,Apertura
+Fecha 4,26 de febrero,Junior,0  -  0,Pereira,2004,Apertura
+Fecha 5,28 de febrero,Cali,3  -  1,Medellín,2004,Apertura
+Fecha 5,29 de febrero,Millonarios,1  -  1,Santa Fe,2004,Apertura
+Fecha 5,29 de febrero,Pasto,1  -  0,América,2004,Apertura
+Fecha 5,29 de febrero,Pereira,1  -  1,Deportes Quindío,2004,Apertura
+Fecha 5,29 de febrero,Tolima,1  -  1,Junior,2004,Apertura
+Fecha 5,29 de febrero,Unión Magdalena,1  -  1,Huila,2004,Apertura
+Fecha 5,29 de febrero,Bucaramanga,3  -  3,Cortuluá,2004,Apertura
+Fecha 5,29 de febrero,Envigado F. C.,0  -  1,Once Caldas,2004,Apertura
+Fecha 5,29 de febrero,Nacional,2  -  1,Bogotá Chicó,2004,Apertura
+Fecha 6,7 de marzo,América,3  -  2,Cortuluá,2004,Apertura
+Fecha 6,7 de marzo,Medellín,1  -  1,Bucaramanga,2004,Apertura
+Fecha 6,7 de marzo,Huila,1  -  1,Envigado F. C.,2004,Apertura
+Fecha 6,7 de marzo,Santa Fe,2  -  1,Unión Magdalena,2004,Apertura
+Fecha 6,7 de marzo,Junior,2  -  1,Millonarios,2004,Apertura
+Fecha 6,7 de marzo,Deportes Quindío,0  -  1,Tolima,2004,Apertura
+Fecha 6,7 de marzo,Bogotá Chicó,1  -  1,Pereira,2004,Apertura
+Fecha 6,7 de marzo,Pasto,2  -  0,Nacional,2004,Apertura
+Fecha 6,7 de marzo,Once Caldas,2  -  0,Cali,2004,Apertura
+Fecha 7,11 de marzo,Nacional,0  -  1,América,2004,Apertura
+Fecha 7,11 de marzo,Cali,2  -  1,Huila,2004,Apertura
+Fecha 7,11 de marzo,Pereira,2  -  0,Pasto,2004,Apertura
+Fecha 7,11 de marzo,Millonarios,0  -  0,Deportes Quindío,2004,Apertura
+Fecha 7,11 de marzo,Unión Magdalena,0  -  0,Junior,2004,Apertura
+Fecha 7,11 de marzo,Envigado F. C.,1  -  1,Santa Fe,2004,Apertura
+Fecha 7,11 de marzo,Cortuluá,3  -  1,Medellín,2004,Apertura
+Fecha 7,11 de marzo,Bucaramanga,0  -  2,Once Caldas,2004,Apertura
+Fecha 7,11 de marzo,Tolima,0  -  0,Bogotá Chicó,2004,Apertura
+Fecha 8,13 de marzo,América,0  -  0,Medellín,2004,Apertura
+Fecha 8,14 de marzo,Bogotá Chicó,2  -  4,Millonarios,2004,Apertura
+Fecha 8,14 de marzo,Huila,3  -  1,Bucaramanga,2004,Apertura
+Fecha 8,14 de marzo,Junior,2  -  0,Envigado F. C.,2004,Apertura
+Fecha 8,14 de marzo,Pasto,1  -  0,Tolima,2004,Apertura
+Fecha 8,14 de marzo,Santa Fe,0  -  0,Cali,2004,Apertura
+Fecha 8,14 de marzo,Deportes Quindío,1  -  1,Unión Magdalena,2004,Apertura
+Fecha 8,14 de marzo,Nacional,2  -  0,Pereira,2004,Apertura
+Fecha 8,14 de marzo,Once Caldas,2  -  1,Cortuluá,2004,Apertura
+Fecha 9,19 de marzo,América,3  -  1,Cali,2004,Apertura
+Fecha 9,20 de marzo,Medellín,0  -  2,Nacional,2004,Apertura
+Fecha 9,21 de marzo,Santa Fe,1  -  1,Millonarios,2004,Apertura
+Fecha 9,21 de marzo,Bucaramanga,2  -  1,Bogotá Chicó,2004,Apertura
+Fecha 9,21 de marzo,Once Caldas,0  -  1,Pereira,2004,Apertura
+Fecha 9,21 de marzo,Huila,2  -  2,Tolima,2004,Apertura
+Fecha 9,21 de marzo,Junior,2  -  1,Unión Magdalena,2004,Apertura
+Fecha 9,21 de marzo,Deportes Quindío,1  -  1,Envigado F. C.,2004,Apertura
+Fecha 9,21 de marzo,Cortuluá,1  -  0,Pasto,2004,Apertura
+Fecha 10,4 de abril,Pereira,1  -  0,América,2004,Apertura
+Fecha 10,4 de abril,Medellín,2  -  0,Once Caldas,2004,Apertura
+Fecha 10,4 de abril,Cortuluá,1  -  1,Huila,2004,Apertura
+Fecha 10,4 de abril,Bucaramanga,4  -  0,Santa Fe,2004,Apertura
+Fecha 10,4 de abril,Unión Magdalena,2  -  3,Bogotá Chicó,2004,Apertura
+Fecha 10,4 de abril,Tolima,2  -  2,Nacional,2004,Apertura
+Fecha 10,4 de abril,Cali,0  -  0,Junior,2004,Apertura
+Fecha 10,5 de abril,Millonarios,5  -  3,Pasto,2004,Apertura
+Fecha 10,5 de abril,Envigado F. C.,1  -  2,Deportes Quindío,2004,Apertura
+Fecha 11,10 de abril,Santa Fe,1  -  1,Cortuluá,2004,Apertura
+Fecha 11,10 de abril,Nacional,1  -  1,Millonarios,2004,Apertura
+Fecha 11,11 de abril,Pereira,2  -  2,Tolima,2004,Apertura
+Fecha 11,11 de abril,América,1  -  0,Once Caldas,2004,Apertura
+Fecha 11,11 de abril,Huila,0  -  1,Medellín,2004,Apertura
+Fecha 11,11 de abril,Bogotá Chicó,1  -  0,Envigado F. C.,2004,Apertura
+Fecha 11,11 de abril,Junior,1  -  1,Bucaramanga,2004,Apertura
+Fecha 11,11 de abril,Deportes Quindío,1  -  1,Cali,2004,Apertura
+Fecha 11,11 de abril,Pasto,2  -  0,Unión Magdalena,2004,Apertura
+Fecha 12,14 de abril,Millonarios,2  -  1,Pereira,2004,Apertura
+Fecha 12,14 de abril,Unión Magdalena,2  -  3,Nacional,2004,Apertura
+Fecha 12,14 de abril,Envigado F. C.,0  -  0,Pasto,2004,Apertura
+Fecha 12,14 de abril,Cali,4  -  2,Bogotá Chicó,2004,Apertura
+Fecha 12,14 de abril,Bucaramanga,1  -  0,Deportes Quindío,2004,Apertura
+Fecha 12,14 de abril,Cortuluá,1  -  2,Junior,2004,Apertura
+Fecha 12,14 de abril,Medellín,1  -  2,Santa Fe,2004,Apertura
+Fecha 12,22 de abril,Once Caldas,4  -  0,Huila,2004,Apertura
+Fecha 12,22 de abril,Tolima,2  -  1,América,2004,Apertura
+Fecha 13,18 de abril,Santa Fe,2  -  2,Once Caldas,2004,Apertura
+Fecha 13,18 de abril,América,2  -  1,Huila,2004,Apertura
+Fecha 13,18 de abril,Pereira,4  -  1,Unión Magdalena,2004,Apertura
+Fecha 13,18 de abril,Pasto,0  -  1,Cali,2004,Apertura
+Fecha 13,18 de abril,Tolima,2  -  0,Millonarios,2004,Apertura
+Fecha 13,18 de abril,Bogotá Chicó,3  -  1,Bucaramanga,2004,Apertura
+Fecha 13,18 de abril,Deportes Quindío,1  -  0,Cortuluá,2004,Apertura
+Fecha 13,18 de abril,Nacional,2  -  1,Envigado F. C.,2004,Apertura
+Fecha 13,18 de abril,Junior,5  -  0,Medellín,2004,Apertura
+Fecha 14,24 de abril,Once Caldas,2  -  1,Junior,2004,Apertura
+Fecha 14,25 de abril,Medellín,3  -  0,Deportes Quindío,2004,Apertura
+Fecha 14,25 de abril,Unión Magdalena,0  -  1,Tolima,2004,Apertura
+Fecha 14,25 de abril,Bucaramanga,1  -  0,Pasto,2004,Apertura
+Fecha 14,25 de abril,Cortuluá,1  -  2,Bogotá Chicó,2004,Apertura
+Fecha 14,25 de abril,Huila,1  -  3,Santa Fe,2004,Apertura
+Fecha 14,25 de abril,Envigado,3  -  1,Pereira,2004,Apertura
+Fecha 14,25 de abril,Cali,2  -  0,Nacional,2004,Apertura
+Fecha 14,25 de abril,Millonarios,0  -  2,América,2004,Apertura
+Fecha 15,2 de mayo,Pereira,0  -  1,Cali,2004,Apertura
+Fecha 15,2 de mayo,Nacional,2  -  1,Bucaramanga,2004,Apertura
+Fecha 15,2 de mayo,América,1  -  0,Santa Fe,2004,Apertura
+Fecha 15,2 de mayo,Junior,3  -  1,Huila,2004,Apertura
+Fecha 15,2 de mayo,Deportes Quindío,0  -  0,Once Caldas,2004,Apertura
+Fecha 15,2 de mayo,Bogotá Chicó,0  -  0,Medellín,2004,Apertura
+Fecha 15,2 de mayo,Pasto,1  -  1,Cortuluá,2004,Apertura
+Fecha 15,2 de mayo,Tolima,2  -  1,Envigado F. C.,2004,Apertura
+Fecha 15,2 de mayo,Millonarios,1  -  0,Unión Magdalena,2004,Apertura
+Fecha 16,9 de mayo,Unión Magdalena,3  -  2,América,2004,Apertura
+Fecha 16,9 de mayo,Cortuluá,3  -  2,Nacional,2004,Apertura
+Fecha 16,9 de mayo,Cali,1  -  0,Tolima,2004,Apertura
+Fecha 16,9 de mayo,Santa Fe,1  -  0,Junior,2004,Apertura
+Fecha 16,9 de mayo,Medellín,3  -  1,Pasto,2004,Apertura
+Fecha 16,9 de mayo,Bucaramanga,1  -  0,Pereira,2004,Apertura
+Fecha 16,9 de mayo,Envigado F. C.,1  -  1,Millonarios,2004,Apertura
+Fecha 16,9 de mayo,Huila,1  -  0,Deportes Quindío,2004,Apertura
+Fecha 16,9 de mayo,Once Caldas,0  -  0,Bogotá Chicó,2004,Apertura
+Fecha 17,12 de mayo,Pasto,2  -  1,Once Caldas,2004,Apertura
+Fecha 17,12 de mayo,Millonarios,2  -  0,Cali,2004,Apertura
+Fecha 17,12 de mayo,Bogotá Chicó,2  -  1,Huila,2004,Apertura
+Fecha 17,12 de mayo,Deportes Quindío,1  -  0,Santa Fe,2004,Apertura
+Fecha 17,12 de mayo,Nacional,0  -  2,Medellín,2004,Apertura
+Fecha 17,12 de mayo,Pereira,3  -  1,Cortuluá,2004,Apertura
+Fecha 17,12 de mayo,Tolima,1  -  1,Bucaramanga,2004,Apertura
+Fecha 17,12 de mayo,América,4  -  1,Junior,2004,Apertura
+Fecha 17,12 de mayo,Unión Magdalena,2  -  0,Envigado F. C.,2004,Apertura
+Fecha 18,16 de mayo,Envigado F. C.,0  -  1,América,2004,Apertura
+Fecha 18,16 de mayo,Cali,1  -  0,Unión Magdalena,2004,Apertura
+Fecha 18,16 de mayo,Bucaramanga,1  -  2,Millonarios,2004,Apertura
+Fecha 18,16 de mayo,Cortuluá,1  -  3,Tolima,2004,Apertura
+Fecha 18,16 de mayo,Medellín,1  -  0,Pereira,2004,Apertura
+Fecha 18,16 de mayo,Huila,0  -  1,Pasto,2004,Apertura
+Fecha 18,16 de mayo,Once Caldas,2  -  3,Nacional,2004,Apertura
+Fecha 18,16 de mayo,Santa Fe,1  -  2,Bogotá Chicó,2004,Apertura
+Fecha 18,16 de mayo,Junior,2  -  0,Deportes Quindío,2004,Apertura
