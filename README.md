@@ -2,6 +2,10 @@
 
 This project uses the Wikipedia API and web scraping techniques to extract and analyze data from the Colombian Professional Soccer League (Fútbol Profesional Colombiano) from 2004 to 2024.
 
+## Author
+
+This project was created by David Rojo (@dsrojo10).
+
 ## Project Goals
 
 The main goals of this project are:
@@ -33,9 +37,23 @@ To address these changes, different scrapers were developed to handle each table
 
 Adapting to these varying formats was crucial to ensure complete and accurate data collection.
 
-## Dataset Final
+## Final Dataset
 
-![Dataset Final](image.png)
+![Final Dataset](images/image.png)
+
+The final dataset contains detailed information about the matches, including teams, results, dates, and stadiums.
+
+### Top 3 Most Common Results
+
+The following image shows the three most common results in the matches:
+
+![Top 3 Most Common Results](images/image2.png)
+
+### Top 3 Stadiums with Most Matches
+
+The following image shows the three stadiums that have hosted the most matches:
+
+![Top 3 Stadiums with Most Matches](images/image3.png)
 
 ## Files
 
