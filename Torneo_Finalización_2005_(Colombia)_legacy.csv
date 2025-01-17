@@ -1,0 +1,163 @@
+Fecha,Día,Local,Resultado,Visitante,Año,Tipo de Torneo
+Fecha 1,10 de julio,Pasto,2  -  1,Tolima,2005,Finalización
+Fecha 1,10 de julio,Quindío,0  -  0,Santa Fe,2005,Finalización
+Fecha 1,10 de julio,Real Cartagena,3  -  0,Once Caldas,2005,Finalización
+Fecha 1,10 de julio,América de Cali,1  -  0,Atlético Nacional,2005,Finalización
+Fecha 1,10 de julio,Junior,2  -  1,Unión Magdalena,2005,Finalización
+Fecha 1,10 de julio,Medellín,0  -  1,Deportivo Cali,2005,Finalización
+Fecha 1,10 de julio,Pereira,1  -  0,Bucaramanga,2005,Finalización
+Fecha 1,10 de julio,Millonarios,2  -  1,Envigado,2005,Finalización
+Fecha 1,10 de julio,Huila,3  -  0,Boyacá Chicó,2005,Finalización
+Fecha 2,16 de julio,Deportivo Cali,4  -  1,Junior,2005,Finalización
+Fecha 2,17 de julio,Tolima,2  -  0,Huila,2005,Finalización
+Fecha 2,17 de julio,Boyacá Chicó,0  -  2,Millonarios,2005,Finalización
+Fecha 2,17 de julio,Envigado,2  -  1,Pereira,2005,Finalización
+Fecha 2,17 de julio,Bucaramanga,4  -  0,Medellín,2005,Finalización
+Fecha 2,17 de julio,Unión Magdalena,1  -  3,América de Cali,2005,Finalización
+Fecha 2,17 de julio,Atlético Nacional,1  -  1,Real Cartagena,2005,Finalización
+Fecha 2,17 de julio,Once Caldas,1  -  0,Quindío,2005,Finalización
+Fecha 2,17 de julio,Santa Fe,2  -  0,Pasto,2005,Finalización
+Fecha 3,23 de julio,Millonarios,2  -  0,Huila,2005,Finalización
+Fecha 3,24 de julio,Tolima,2  -  1,Santa Fe,2005,Finalización
+Fecha 3,24 de julio,Pasto,0  -  0,Once Caldas,2005,Finalización
+Fecha 3,24 de julio,Quindío,1  -  1,Atlético Nacional,2005,Finalización
+Fecha 3,24 de julio,Real Cartagena,2  -  1,Unión Magdalena,2005,Finalización
+Fecha 3,24 de julio,Junior,0  -  0,Bucaramanga,2005,Finalización
+Fecha 3,24 de julio,Medellín,1  -  1,Envigado,2005,Finalización
+Fecha 3,24 de julio,Pereira,2  -  0,Boyacá Chicó,2005,Finalización
+Fecha 3,24 de julio,América de Cali,2  -  0,Deportivo Cali,2005,Finalización
+Fecha 4,30 de julio,Once Caldas,0  -  0,Santa Fe,2005,Finalización
+Fecha 4,31 de julio,Millonarios,2  -  0,Tolima,2005,Finalización
+Fecha 4,31 de julio,Envigado,3  -  0,Junior,2005,Finalización
+Fecha 4,31 de julio,Boyacá Chicó,2  -  1,Medellín,2005,Finalización
+Fecha 4,31 de julio,Bucaramanga,0  -  2,América de Cali,2005,Finalización
+Fecha 4,31 de julio,Deportivo Cali,2  -  2,Real Cartagena,2005,Finalización
+Fecha 4,31 de julio,Unión Magdalena,0  -  1,Quindío,2005,Finalización
+Fecha 4,31 de julio,Atlético Nacional,1  -  0,Pasto,2005,Finalización
+Fecha 4,31 de julio,Huila,1  -  2,Pereira,2005,Finalización
+Fecha 5,3 de agosto,Tolima,3  -  1,Once Caldas,2005,Finalización
+Fecha 5,3 de agosto,Santa Fe,1  -  2,Atlético Nacional,2005,Finalización
+Fecha 5,3 de agosto,Pasto,1  -  1,Unión Magdalena,2005,Finalización
+Fecha 5,3 de agosto,Quindío,1  -  1,Deportivo Cali,2005,Finalización
+Fecha 5,3 de agosto,Real Cartagena,3  -  0,Bucaramanga,2005,Finalización
+Fecha 5,3 de agosto,América de Cali,1  -  0,Envigado,2005,Finalización
+Fecha 5,3 de agosto,Junior,2  -  1,Boyacá Chicó,2005,Finalización
+Fecha 5,3 de agosto,Medellín,4  -  1,Huila,2005,Finalización
+Fecha 5,3 de agosto,Pereira,0  -  2,Millonarios,2005,Finalización
+Fecha 6,6 de agosto,Millonarios,1  -  0,Medellín,2005,Finalización
+Fecha 6,7 de agosto,Pereira,2  -  0,Tolima,2005,Finalización
+Fecha 6,7 de agosto,Huila,1  -  2,Junior,2005,Finalización
+Fecha 6,7 de agosto,Boyacá Chicó,1  -  0,América de Cali,2005,Finalización
+Fecha 6,7 de agosto,Envigado,1  -  1,Real Cartagena,2005,Finalización
+Fecha 6,7 de agosto,Bucaramanga,2  -  0,Quindío,2005,Finalización
+Fecha 6,7 de agosto,Deportivo Cali,2  -  2,Pasto,2005,Finalización
+Fecha 6,7 de agosto,Unión Magdalena,1  -  1,Santa Fe,2005,Finalización
+Fecha 6,7 de agosto,Atlético Nacional,2  -  1,Once Caldas,2005,Finalización
+Fecha 7,13 de agosto,Tolima,1  -  1,Atlético Nacional,2005,Finalización
+Fecha 7,14 de agosto,Once Caldas,4  -  0,Unión Magdalena,2005,Finalización
+Fecha 7,14 de agosto,Santa Fe,1  -  3,Deportivo Cali,2005,Finalización
+Fecha 7,14 de agosto,Pasto,1  -  0,Bucaramanga,2005,Finalización
+Fecha 7,14 de agosto,Quindío,2  -  0,Envigado,2005,Finalización
+Fecha 7,14 de agosto,Real Cartagena,2  -  1,Boyacá Chicó,2005,Finalización
+Fecha 7,14 de agosto,América de Cali,2  -  1,Huila,2005,Finalización
+Fecha 7,14 de agosto,Junior,4  -  3,Millonarios,2005,Finalización
+Fecha 7,14 de agosto,Medellín,2  -  0,Pereira,2005,Finalización
+Fecha 8,20 de agosto,Deportivo Cali,3  -  0,Once Caldas,2005,Finalización
+Fecha 8,21 de agosto,Medellín,0  -  2,Tolima,2005,Finalización
+Fecha 8,21 de agosto,Pereira,2  -  1,Junior,2005,Finalización
+Fecha 8,21 de agosto,Huila,2  -  2,Real Cartagena,2005,Finalización
+Fecha 8,21 de agosto,Boyacá Chicó,0  -  2,Quindío,2005,Finalización
+Fecha 8,21 de agosto,Bucaramanga,3  -  0,Santa Fe,2005,Finalización
+Fecha 8,21 de agosto,Unión Magdalena,2  -  2,Atlético Nacional,2005,Finalización
+Fecha 8,21 de agosto,Millonarios,0  -  1,América de Cali,2005,Finalización
+Fecha 8,21 de agosto,Envigado,2  -  0,Pasto,2005,Finalización
+Fecha 9,28 de agosto,Boyacá Chicó,0  -  2,Pasto,2005,Finalización
+Fecha 9,28 de agosto,Once Caldas,3  -  3,Pereira,2005,Finalización
+Fecha 9,28 de agosto,Santa Fe,1  -  0,Millonarios,2005,Finalización
+Fecha 9,28 de agosto,Atlético Nacional,3  -  2,Medellín,2005,Finalización
+Fecha 9,28 de agosto,Unión Magdalena,1  -  2,Junior,2005,Finalización
+Fecha 9,28 de agosto,Bucaramanga,2  -  1,Real Cartagena,2005,Finalización
+Fecha 9,28 de agosto,Deportivo Cali,1  -  2,América de Cali,2005,Finalización
+Fecha 9,28 de agosto,Envigado,2  -  1,Quindío,2005,Finalización
+Fecha 9,28 de agosto,Huila,2  -  1,Tolima,2005,Finalización
+Fecha 10,10 de septiembre,América de Cali,0  -  1,Pereira,2005,Finalización
+Fecha 10,11 de septiembre,Tolima,1  -  1,Unión Magdalena,2005,Finalización
+Fecha 10,11 de septiembre,Atlético Nacional,5  -  0,Deportivo Cali,2005,Finalización
+Fecha 10,11 de septiembre,Santa Fe,0  -  0,Envigado,2005,Finalización
+Fecha 10,11 de septiembre,Pasto,1  -  1,Boyacá Chicó,2005,Finalización
+Fecha 10,11 de septiembre,Quindío,0  -  1,Huila,2005,Finalización
+Fecha 10,11 de septiembre,Real Cartagena,3  -  1,Millonarios,2005,Finalización
+Fecha 10,11 de septiembre,Junior,2  -  3,Medellín,2005,Finalización
+Fecha 10,11 de septiembre,Once Caldas,0  -  0,Bucaramanga,2005,Finalización
+Fecha 11,17 de septiembre,Bucaramanga,2  -  1,Atlético Nacional,2005,Finalización
+Fecha 11,18 de septiembre,Junior,1  -  0,Tolima,2005,Finalización
+Fecha 11,18 de septiembre,Medellín,3  -  1,América de Cali,2005,Finalización
+Fecha 11,18 de septiembre,Pereira,1  -  0,Real Cartagena,2005,Finalización
+Fecha 11,18 de septiembre,Millonarios,1  -  0,Quindío,2005,Finalización
+Fecha 11,18 de septiembre,Huila,0  -  4,Pasto,2005,Finalización
+Fecha 11,18 de septiembre,Boyacá Chicó,0  -  1,Santa Fe,2005,Finalización
+Fecha 11,18 de septiembre,Envigado,1  -  2,Once Caldas,2005,Finalización
+Fecha 11,18 de septiembre,Deportivo Cali,4  -  2,Unión Magdalena,2005,Finalización
+Fecha 12,24 de septiembre,Real Cartagena,1  -  3,Medellín,2005,Finalización
+Fecha 12,25 de septiembre,Tolima,2  -  0,Deportivo Cali,2005,Finalización
+Fecha 12,25 de septiembre,Unión Magdalena,0  -  2,Bucaramanga,2005,Finalización
+Fecha 12,25 de septiembre,Atlético Nacional,1  -  0,Envigado,2005,Finalización
+Fecha 12,25 de septiembre,Once Caldas,2  -  1,Boyacá Chicó,2005,Finalización
+Fecha 12,25 de septiembre,Santa Fe,1  -  0,Huila,2005,Finalización
+Fecha 12,25 de septiembre,Pasto,1  -  0,Millonarios,2005,Finalización
+Fecha 12,25 de septiembre,Quindío,3  -  2,Pereira,2005,Finalización
+Fecha 12,25 de septiembre,América de Cali,4  -  1,Junior,2005,Finalización
+Fecha 13,1 de octubre,Millonarios,1  -  3,Santa Fe,2005,Finalización
+Fecha 13,2 de octubre,Junior,0  -  0,Real Cartagena,2005,Finalización
+Fecha 13,2 de octubre,Bucaramanga,1  -  1,Deportivo Cali,2005,Finalización
+Fecha 13,2 de octubre,América de Cali,0  -  2,Tolima,2005,Finalización
+Fecha 13,2 de octubre,Medellín,4  -  0,Quindío,2005,Finalización
+Fecha 13,2 de octubre,Pereira,5  -  3,Pasto,2005,Finalización
+Fecha 13,2 de octubre,Huila,3  -  3,Once Caldas,2005,Finalización
+Fecha 13,2 de octubre,Boyacá Chicó,0  -  0,Atlético Nacional,2005,Finalización
+Fecha 13,2 de octubre,Envigado,2  -  1,Unión Magdalena,2005,Finalización
+Fecha 14,15 de octubre,Real Cartagena,2  -  1,América de Cali,2005,Finalización
+Fecha 14,16 de octubre,Tolima,1  -  0,Bucaramanga,2005,Finalización
+Fecha 14,16 de octubre,Deportivo Cali,1  -  1,Envigado,2005,Finalización
+Fecha 14,16 de octubre,Unión Magdalena,2  -  2,Boyacá Chicó,2005,Finalización
+Fecha 14,16 de octubre,Atlético Nacional,1  -  2,Huila,2005,Finalización
+Fecha 14,16 de octubre,Once Caldas,2  -  1,Millonarios,2005,Finalización
+Fecha 14,16 de octubre,Santa Fe,4  -  2,Pereira,2005,Finalización
+Fecha 14,16 de octubre,Pasto,0  -  1,Medellín,2005,Finalización
+Fecha 14,16 de octubre,Quindío,3  -  1,Junior,2005,Finalización
+Fecha 15,19 de octubre,Real Cartagena,2  -  1,Tolima,2005,Finalización
+Fecha 15,19 de octubre,América de Cali,2  -  2,Quindío,2005,Finalización
+Fecha 15,19 de octubre,Junior,1  -  0,Pasto,2005,Finalización
+Fecha 15,19 de octubre,Huila,0  -  0,Unión Magdalena,2005,Finalización
+Fecha 15,19 de octubre,Medellín,1  -  0,Santa Fe,2005,Finalización
+Fecha 15,19 de octubre,Pereira,0  -  2,Once Caldas,2005,Finalización
+Fecha 15,19 de octubre,Millonarios,0  -  0,Atlético Nacional,2005,Finalización
+Fecha 15,19 de octubre,Boyacá Chicó,0  -  0,Deportivo Cali,2005,Finalización
+Fecha 15,19 de octubre,Envigado,2  -  2,Bucaramanga,2005,Finalización
+Fecha 16,22 de octubre,Santa Fe,1  -  0,Junior,2005,Finalización
+Fecha 16,23 de octubre,Tolima,4  -  1,Envigado,2005,Finalización
+Fecha 16,23 de octubre,Bucaramanga,1  -  1,Boyacá Chicó,2005,Finalización
+Fecha 16,23 de octubre,Deportivo Cali,2  -  0,Huila,2005,Finalización
+Fecha 16,23 de octubre,Unión Magdalena,1  -  1,Millonarios,2005,Finalización
+Fecha 16,23 de octubre,Atlético Nacional,0  -  0,Pereira,2005,Finalización
+Fecha 16,23 de octubre,Once Caldas,3  -  0,Medellín,2005,Finalización
+Fecha 16,23 de octubre,Pasto,2  -  0,América de Cali,2005,Finalización
+Fecha 16,23 de octubre,Quindío,1  -  0,Real Cartagena,2005,Finalización
+Fecha 17,29 de octubre,América de Cali,2  -  2,Santa Fe,2005,Finalización
+Fecha 17,30 de octubre,Boyacá Chicó,1  -  0,Envigado,2005,Finalización
+Fecha 17,30 de octubre,Huila,0  -  3,Bucaramanga,2005,Finalización
+Fecha 17,30 de octubre,Junior,1  -  0,Once Caldas,2005,Finalización
+Fecha 17,30 de octubre,Medellín,1  -  1,Atlético Nacional,2005,Finalización
+Fecha 17,30 de octubre,Millonarios,1  -  2,Deportivo Cali,2005,Finalización
+Fecha 17,30 de octubre,Pereira,3  -  0,Unión Magdalena,2005,Finalización
+Fecha 17,30 de octubre,Quindío,1  -  0,Tolima,2005,Finalización
+Fecha 17,30 de octubre,Real Cartagena,1  -  0,Pasto,2005,Finalización
+Fecha 18,6 de noviembre,Tolima,1  -  1,Boyacá Chicó,2005,Finalización
+Fecha 18,6 de noviembre,Envigado,1  -  1,Huila,2005,Finalización
+Fecha 18,6 de noviembre,Bucaramanga,2  -  2,Millonarios,2005,Finalización
+Fecha 18,6 de noviembre,Deportivo Cali,3  -  0,Pereira,2005,Finalización
+Fecha 18,6 de noviembre,Unión Magdalena,0  -  2,Medellín,2005,Finalización
+Fecha 18,6 de noviembre,Once Caldas,1  -  0,América de Cali,2005,Finalización
+Fecha 18,6 de noviembre,Atlético Nacional,0  -  1,Junior,2005,Finalización
+Fecha 18,6 de noviembre,Santa Fe,1  -  0,Real Cartagena,2005,Finalización
+Fecha 18,6 de noviembre,Pasto,1  -  0,Quindío,2005,Finalización

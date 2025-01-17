@@ -1,0 +1,163 @@
+Fecha,Local,Resultado,Visitante,Estadio,Año,Tipo de Torneo
+Fecha 1,Atlético Nacional,1  -  1,La Equidad,,2009,Finalización
+Fecha 1,Cúcuta,1  -  1,América de Cali,,2009,Finalización
+Fecha 1,Once Caldas,1  -  0,Pereira,,2009,Finalización
+Fecha 1,Boyacá Chicó,2  -  3,Huila,,2009,Finalización
+Fecha 1,Cartagena,1  -  0,Santa Fe,,2009,Finalización
+Fecha 1,Deportivo Cali,2  -  2,Envigado,,2009,Finalización
+Fecha 1,Pasto,2  -  1,Medellín,,2009,Finalización
+Fecha 1,Tolima,1  -  4,Quindío,,2009,Finalización
+Fecha 1,Millonarios,3  -  1,Junior,,2009,Finalización
+Fecha 2,Envigado,2  -  2,Cartagena,,2009,Finalización
+Fecha 2,Quindío,1  -  1,Millonarios,,2009,Finalización
+Fecha 2,Medellín,1  -  0,Deportivo Cali,,2009,Finalización
+Fecha 2,Huila,1  -  0,Tolima,,2009,Finalización
+Fecha 2,Junior,1  -  0,Cúcuta,,2009,Finalización
+Fecha 2,La Equidad,2  -  1,Once Caldas,,2009,Finalización
+Fecha 2,Pereira,3  -  0,Pasto,,2009,Finalización
+Fecha 2,Santa Fe,4  -  2,Boyacá Chicó,,2009,Finalización
+Fecha 2,América de Cali,2  -  2,Atlético Nacional,,2009,Finalización
+Fecha 3,Once Caldas,0  -  0,América de Cali,,2009,Finalización
+Fecha 3,Huila,2  -  1,Santa Fe,,2009,Finalización
+Fecha 3,Deportivo Cali,2  -  1,Pereira,,2009,Finalización
+Fecha 3,Boyacá Chicó,4  -  2,Envigado,,2009,Finalización
+Fecha 3,Cartagena,1  -  3,Medellín,,2009,Finalización
+Fecha 3,Pasto,1  -  1,La Equidad,,2009,Finalización
+Fecha 3,Atlético Nacional,2  -  1,Junior,,2009,Finalización
+Fecha 3,Cúcuta,2  -  0,Quindío,,2009,Finalización
+Fecha 3,Millonarios,0  -  2,Tolima,,2009,Finalización
+Fecha 4,La Equidad,2  -  2,Deportivo Cali,,2009,Finalización
+Fecha 4,Quindío,0  -  1,Atlético Nacional,,2009,Finalización
+Fecha 4,Millonarios,1  -  1,Huila,,2009,Finalización
+Fecha 4,Tolima,1  -  1,Cúcuta,,2009,Finalización
+Fecha 4,Junior,4  -  2,Once Caldas,,2009,Finalización
+Fecha 4,Pereira,1  -  1,Cartagena,,2009,Finalización
+Fecha 4,Medellín,1  -  0,Boyacá Chicó,,2009,Finalización
+Fecha 4,Envigado,2  -  3,Santa Fe,,2009,Finalización
+Fecha 4,América de Cali,1  -  1,Pasto,,2009,Finalización
+Fecha 5,Cúcuta,0  -  1,Millonarios,,2009,Finalización
+Fecha 5,Santa Fe,0  -  3[28]​,Medellín,,2009,Finalización
+Fecha 5,Boyacá Chicó,0  -  0,Pereira,,2009,Finalización
+Fecha 5,Huila,3  -  2,Envigado,,2009,Finalización
+Fecha 5,Cartagena,2  -  2,La Equidad,,2009,Finalización
+Fecha 5,Pasto,1  -  0,Junior,,2009,Finalización
+Fecha 5,Once Caldas,2  -  0,Quindío,,2009,Finalización
+Fecha 5,Atlético Nacional,2  -  2,Tolima,,2009,Finalización
+Fecha 5,Deportivo Cali,3  -  2,América de Cali,,2009,Finalización
+Fecha 6,América de Cali,0  -  1,Cartagena,,2009,Finalización
+Fecha 6,Millonarios,1  -  1,Atlético Nacional,,2009,Finalización
+Fecha 6,Medellín,4  -  2,Envigado,,2009,Finalización
+Fecha 6,Cúcuta,1  -  2,Huila,,2009,Finalización
+Fecha 6,Tolima,2  -  1,Once Caldas,,2009,Finalización
+Fecha 6,Quindío,2  -  1,Pasto,,2009,Finalización
+Fecha 6,Junior,5  -  2,Deportivo Cali,,2009,Finalización
+Fecha 6,La Equidad,1  -  1,Boyacá Chicó,,2009,Finalización
+Fecha 6,Pereira,0  -  0,Santa Fe,,2009,Finalización
+Fecha 7,Santa Fe,3  -  0,La Equidad,,2009,Finalización
+Fecha 7,Once Caldas,0  -  0,Millonarios,,2009,Finalización
+Fecha 7,Cartagena,2  -  2,Junior,,2009,Finalización
+Fecha 7,Boyacá Chicó,1  -  1,América de Cali,,2009,Finalización
+Fecha 7,Deportivo Cali,2  -  1,Quindío,,2009,Finalización
+Fecha 7,Pasto,3  -  1,Tolima,,2009,Finalización
+Fecha 7,Atlético Nacional,1  -  0,Cúcuta,,2009,Finalización
+Fecha 7,Atlético Nacional,1  -  0,Cúcuta,,2009,Finalización
+Fecha 7,Envigado,0  -  0,Pereira,,2009,Finalización
+Fecha 8,Quindío,3  -  2,Cartagena,,2009,Finalización
+Fecha 8,Atlético Nacional,1  -  1,Huila,,2009,Finalización
+Fecha 8,Millonarios,1  -  2,Pasto,,2009,Finalización
+Fecha 8,Cúcuta,2  -  0,Once Caldas,,2009,Finalización
+Fecha 8,Tolima,0  -  3,Deportivo Cali,,2009,Finalización
+Fecha 8,Junior,5  -  2,Boyacá Chicó,,2009,Finalización
+Fecha 8,América de Cali,1  -  1,Santa Fe,,2009,Finalización
+Fecha 8,La Equidad,2  -  2,Envigado,,2009,Finalización
+Fecha 8,La Equidad,2  -  2,Envigado,,2009,Finalización
+Fecha 9,Tolima,1  -  0,Huila,,2009,Finalización
+Fecha 9,Santa Fe,4  -  2,Millonarios,,2009,Finalización
+Fecha 9,Pereira,4  -  1,Once Caldas,,2009,Finalización
+Fecha 9,Medellín,3  -  1,Atlético Nacional,,2009,Finalización
+Fecha 9,La Equidad,1  -  1,Pasto,,2009,Finalización
+Fecha 9,Junior,3  -  1,Cartagena,,2009,Finalización
+Fecha 9,Quindío,1  -  3,Boyacá Chicó,,2009,Finalización
+Fecha 9,Envigado,1  -  1,Cúcuta,,2009,Finalización
+Fecha 9,América de Cali,3  -  1,Deportivo Cali,,2009,Finalización
+Fecha 10,Huila,2  -  1,Pereira,,2009,Finalización
+Fecha 10,Santa Fe,2  -  2,Junior,,2009,Finalización
+Fecha 10,Once Caldas,1  -  2,Atlético Nacional,,2009,Finalización
+Fecha 10,Medellín,1  -  0,La Equidad,,2009,Finalización
+Fecha 10,Boyacá Chicó,3  -  1,Quindío,,2009,Finalización
+Fecha 10,Cartagena,2  -  3,Tolima,,2009,Finalización
+Fecha 10,Pasto,1  -  0,Cúcuta,,2009,Finalización
+Fecha 10,Envigado,3  -  3,América de Cali,,2009,Finalización
+Fecha 10,Deportivo Cali,0  -  1,Millonarios,,2009,Finalización
+Fecha 11,Millonarios,0  -  0,Cartagena,,2009,Finalización
+Fecha 11,La Equidad,0  -  0,Pereira,,2009,Finalización
+Fecha 11,América de Cali,1  -  2,Medellín,,2009,Finalización
+Fecha 11,Atlético Nacional,1  -  1,Pasto,,2009,Finalización
+Fecha 11,Cúcuta,0  -  0,Deportivo Cali,,2009,Finalización
+Fecha 11,Tolima,1  -  1,Boyacá Chicó,,2009,Finalización
+Fecha 11,Junior,4  -  1,Envigado,,2009,Finalización
+Fecha 11,Quindío,3  -  1,Santa Fe,,2009,Finalización
+Fecha 11,Once Caldas,2  -  1,Huila,,2009,Finalización
+Fecha 12,Boyacá Chicó,2  -  2,Millonarios,,2009,Finalización
+Fecha 12,Deportivo Cali,1  -  2,Atlético Nacional,,2009,Finalización
+Fecha 12,Pereira,2  -  0,América de Cali,,2009,Finalización
+Fecha 12,Huila,1  -  0,La Equidad,,2009,Finalización
+Fecha 12,Envigado,3  -  0,Quindío,,2009,Finalización
+Fecha 12,Santa Fe,1  -  1,Tolima,,2009,Finalización
+Fecha 12,Cartagena,3  -  2,Cúcuta,,2009,Finalización
+Fecha 12,Pasto,5  -  1,Once Caldas,,2009,Finalización
+Fecha 12,Medellín,1  -  0,Junior,,2009,Finalización
+Fecha 13,Pasto,1  -  1,Huila,,2009,Finalización
+Fecha 13,Millonarios,1  -  1,Santa Fe,,2009,Finalización
+Fecha 13,Quindío,1  -  2,Medellín,,2009,Finalización
+Fecha 13,Once Caldas,2  -  1,Deportivo Cali,,2009,Finalización
+Fecha 13,Cúcuta,2  -  0,Boyacá Chicó,,2009,Finalización
+Fecha 13,Tolima,1  -  0,Envigado,,2009,Finalización
+Fecha 13,Junior,1  -  1,Pereira,,2009,Finalización
+Fecha 13,América de Cali,1  -  1,La Equidad,,2009,Finalización
+Fecha 13,Atlético Nacional,0  -  0,Cartagena,,2009,Finalización
+Fecha 14,La Equidad,1  -  0,Junior,,2009,Finalización
+Fecha 14,Envigado,3  -  4,Millonarios,,2009,Finalización
+Fecha 14,Envigado,3  -  4,Millonarios,,2009,Finalización
+Fecha 14,Pereira,4  -  0,Quindío,,2009,Finalización
+Fecha 14,Medellín,1  -  3,Tolima,,2009,Finalización
+Fecha 14,Santa Fe,1  -  1,Cúcuta,,2009,Finalización
+Fecha 14,Boyacá Chicó,2  -  1,Atlético Nacional,,2009,Finalización
+Fecha 14,Cartagena,3  -  1,Once Caldas,,2009,Finalización
+Fecha 14,Deportivo Cali,3  -  0,Pasto,,2009,Finalización
+Fecha 15,Tolima,1  -  1,Pereira,,2009,Finalización
+Fecha 15,Millonarios,3  -  0,Medellín,,2009,Finalización
+Fecha 15,Once Caldas,2  -  2,Boyacá Chicó,,2009,Finalización
+Fecha 15,Pasto,0  -  3[19]​,Cartagena,,2009,Finalización
+Fecha 15,Deportivo Cali,2  -  2,Huila,,2009,Finalización
+Fecha 15,Cúcuta,0  -  3[29]​,Envigado,,2009,Finalización
+Fecha 15,Quindío,2  -  2,La Equidad,,2009,Finalización
+Fecha 15,Junior,3  -  0,América de Cali,,2009,Finalización
+Fecha 15,Atlético Nacional,1  -  2,Santa Fe,,2009,Finalización
+Fecha 16,Huila,2  -  1,Junior,,2009,Finalización
+Fecha 16,Envigado,1  -  2,Atlético Nacional,,2009,Finalización
+Fecha 16,América de Cali,1  -  2,Quindío,,2009,Finalización
+Fecha 16,La Equidad,0  -  2,Tolima,,2009,Finalización
+Fecha 16,Pereira,1  -  0,Millonarios,,2009,Finalización
+Fecha 16,Medellín,2  -  1,Cúcuta,,2009,Finalización
+Fecha 16,Boyacá Chicó,1  -  0,Pasto,,2009,Finalización
+Fecha 16,Cartagena,2  -  1,Deportivo Cali,,2009,Finalización
+Fecha 16,Santa Fe,2  -  1,Once Caldas,,2009,Finalización
+Fecha 17,Atlético Nacional,0  -  0,Medellín,,2009,Finalización
+Fecha 17,Tolima,2  -  0,América de Cali,,2009,Finalización
+Fecha 17,Cartagena,4  -  3,Huila,,2009,Finalización
+Fecha 17,Deportivo Cali,4  -  2,Boyacá Chicó,,2009,Finalización
+Fecha 17,Pasto,0  -  1,Santa Fe,,2009,Finalización
+Fecha 17,Once Caldas,3  -  3,Envigado,,2009,Finalización
+Fecha 17,Cúcuta,0  -  1,Pereira,,2009,Finalización
+Fecha 17,Quindío,1  -  0,Junior,,2009,Finalización
+Fecha 17,Millonarios,2  -  0,La Equidad,,2009,Finalización
+Fecha 18,La Equidad,1  -  1,Cúcuta,,2009,Finalización
+Fecha 18,Medellín,2  -  2,Once Caldas,,2009,Finalización
+Fecha 18,Huila,0  -  0,Quindío,,2009,Finalización
+Fecha 18,Junior,2  -  1,Tolima,,2009,Finalización
+Fecha 18,América de Cali,1  -  1,Millonarios,,2009,Finalización
+Fecha 18,Pereira,0  -  0,Atlético Nacional,,2009,Finalización
+Fecha 18,Envigado,3  -  4,Pasto,,2009,Finalización
+Fecha 18,Santa Fe,4  -  1,Deportivo Cali,,2009,Finalización
+Fecha 18,Boyacá Chicó,4  -  0,Cartagena,,2009,Finalización
